@@ -1,0 +1,11 @@
+<Model>
+	<Title>Ambulance</Title>
+	<License>CC-BY</License>
+	<Source>https://poly.google.com/view/8NOFImgkI5N</Source>
+	<Author>Poly by Google</Author>
+	<Modifications>		- Resized the model
+		- Split the model into single parts
+		- Set the origin of each wheel to its center
+	</Modifications>
+</Model>
+

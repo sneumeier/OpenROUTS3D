@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+
+message ObjectList {
+	message IdentifiedObject {
+		string type = 1;
+		uint32 uid = 2;
+
+		float centerX = 3;
+		float centerY = 4;
+		float centerZ = 5;
+
+		float topX = 6;
+		float topY = 7;
+		float topZ = 8;
+
+		float bottomX = 9;
+		float bottomY = 10;
+		float bottomZ = 11;
+
+		float confidence = 12;
+	}
+	repeated IdentifiedObject objects = 1;
+}

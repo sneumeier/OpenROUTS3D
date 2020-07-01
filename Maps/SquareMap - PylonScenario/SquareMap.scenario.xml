@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ScenarioPylon>
+    <X>118.216</X>
+    <Y>0.2791966</Y>
+    <Z>66.32089</Z>
+    <RX>270</RX>
+    <RY>359.1391</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+
+  <ScenarioPylon>
+    <X>118.9454</X>
+    <Y>0.2791958</Y>
+    <Z>53.72247</Z>
+    <RX>270</RX>
+    <RY>359.7263</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+  
+  <ScenarioPylon>
+    <X>116.7037</X>
+    <Y>0.2791961</Y>
+    <Z>59.9601</Z>
+    <RX>270</RX>
+    <RY>0.0009452381</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+ 
+  <ScenarioPylon>
+    <X>95.65411</X>
+    <Y>0.2791961</Y>
+    <Z>59.97563</Z>
+    <RX>270</RX>
+    <RY>0.001743284</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+
+  <ScenarioPylon>
+    <X>74.75856</X>
+    <Y>0.2791961</Y>
+    <Z>59.94675</Z>
+    <RX>270</RX>
+    <RY>0.001624146</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+ 
+  <ScenarioPylon>
+    <X>54.52188</X>
+    <Y>0.2791961</Y>
+    <Z>59.92752</Z>
+    <RX>270</RX>
+    <RY>0.001975279</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+ 
+  <ScenarioPylon>
+    <X>34.20427</X>
+    <Y>0.2791961</Y>
+    <Z>60.00067</Z>
+    <RX>270</RX>
+    <RY>0.002003278</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+  
+  <ScenarioPylon>
+    <X>13.50407</X>
+    <Y>0.2791961</Y>
+    <Z>59.92199</Z>
+    <RX>270</RX>
+    <RY>0.0009323149</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+
+  <ScenarioPylon>
+    <X>-7.164253</X>
+    <Y>0.279196</Y>
+    <Z>59.92961</Z>
+    <RX>270</RX>
+    <RY>0.002861825</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+
+  <ScenarioPylon>
+    <X>-28.41164</X>
+    <Y>0.279196</Y>
+    <Z>59.95181</Z>
+    <RX>270.0198</RX>
+    <RY>0.007038158</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+ 
+  <ScenarioPylon>
+    <X>-48.7396</X>
+    <Y>0.2791961</Y>
+    <Z>59.86695</Z>
+    <RX>270</RX>
+    <RY>0.001039003</RY>
+    <RZ>0</RZ>
+  </ScenarioPylon>
+ 
+  <ScenarioSpawnPoint>
+    <X>-69.09051</X>
+    <Y>1.048282</Y>
+    <Z>61.40359</Z>
+    <RX>-9.64737E-07</RX>
+    <RY>90.52599</RY>
+    <RZ>-3.551257E-06</RZ>
+  </ScenarioSpawnPoint>
+</root>

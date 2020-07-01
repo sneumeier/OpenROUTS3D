@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: ac342373d56def14191f558e9fed99bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: inside_Plane_003
+    100002: Plane
+    100004: Plane_001
+    100006: Plane_002
+    100008: Plane_002_Plane_004
+    100010: Plane_003
+    100012: Plane_003_Plane_005
+    100014: Plane_004
+    100016: Plane_004_Plane_006
+    100018: Plane_005
+    100020: Plane_006
+    100022: Plane_007
+    100024: Plane_008
+    100026: Plane_009
+    100028: Plane_010
+    100030: Plane_011
+    100032: //RootNode
+    100034: sweethome3d_window_mirror
+    400000: inside_Plane_003
+    400002: Plane
+    400004: Plane_001
+    400006: Plane_002
+    400008: Plane_002_Plane_004
+    400010: Plane_003
+    400012: Plane_003_Plane_005
+    400014: Plane_004
+    400016: Plane_004_Plane_006
+    400018: Plane_005
+    400020: Plane_006
+    400022: Plane_007
+    400024: Plane_008
+    400026: Plane_009
+    400028: Plane_010
+    400030: Plane_011
+    400032: //RootNode
+    400034: sweethome3d_window_mirror
+    2100000: tires__renault-scenic_jpg
+    2100002: wheels__renault-scenic_jpg
+    2100004: color-beige-green__renault-scenic_jpg
+    2100006: glass__renault-scenic_jpg
+    2100008: back-lights__renault-scenic_jpg
+    2100010: front-lights__renault-scenic_jpg
+    2100012: black-textured__renault-scenic_jpg
+    2100014: black-plastic2
+    2100016: sweethome3d_window_mirror
+    2100018: black-plastic
+    2100020: dark-glass
+    2100022: plate
+    2300000: inside_Plane_003
+    2300002: Plane
+    2300004: Plane_001
+    2300006: Plane_002
+    2300008: Plane_002_Plane_004
+    2300010: Plane_003
+    2300012: Plane_003_Plane_005
+    2300014: Plane_004
+    2300016: Plane_004_Plane_006
+    2300018: Plane_005
+    2300020: Plane_006
+    2300022: Plane_007
+    2300024: Plane_008
+    2300026: Plane_009
+    2300028: Plane_010
+    2300030: Plane_011
+    2300032: sweethome3d_window_mirror
+    3300000: inside_Plane_003
+    3300002: Plane
+    3300004: Plane_001
+    3300006: Plane_002
+    3300008: Plane_002_Plane_004
+    3300010: Plane_003
+    3300012: Plane_003_Plane_005
+    3300014: Plane_004
+    3300016: Plane_004_Plane_006
+    3300018: Plane_005
+    3300020: Plane_006
+    3300022: Plane_007
+    3300024: Plane_008
+    3300026: Plane_009
+    3300028: Plane_010
+    3300030: Plane_011
+    3300032: sweethome3d_window_mirror
+    4300000: Plane_011
+    4300002: Plane_010
+    4300004: Plane_009
+    4300006: Plane_008
+    4300008: Plane_007
+    4300010: Plane_006
+    4300012: Plane_005
+    4300014: Plane_004
+    4300016: Plane_003
+    4300018: Plane_002
+    4300020: Plane
+    4300022: Plane_001
+    4300024: sweethome3d_window_mirror
+    4300026: inside_Plane_003
+    4300028: Plane_002_Plane_004
+    4300030: Plane_003_Plane_005
+    4300032: Plane_004_Plane_006
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

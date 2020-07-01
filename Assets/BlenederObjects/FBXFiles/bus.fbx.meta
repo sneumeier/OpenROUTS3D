@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 54fffecc0ee86074fad1aff72214a0a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cube
+    100006: Lamp
+    100008: Spiegel L
+    100010: Spiegel R
+    100012: Wheel1
+    100014: Wheel2
+    100016: Wheel3
+    100018: Wheel4
+    100020: Wheelachse
+    100022: Wheelachse2
+    400000: //RootNode
+    400002: Camera
+    400004: Cube
+    400006: Lamp
+    400008: Spiegel L
+    400010: Spiegel R
+    400012: Wheel1
+    400014: Wheel2
+    400016: Wheel3
+    400018: Wheel4
+    400020: Wheelachse
+    400022: Wheelachse2
+    2000000: Camera
+    2300000: Cube
+    2300002: Spiegel L
+    2300004: Spiegel R
+    2300006: Wheel1
+    2300008: Wheel2
+    2300010: Wheel3
+    2300012: Wheel4
+    2300014: Wheelachse
+    2300016: Wheelachse2
+    3300000: Cube
+    3300002: Spiegel L
+    3300004: Spiegel R
+    3300006: Wheel1
+    3300008: Wheel2
+    3300010: Wheel3
+    3300012: Wheel4
+    3300014: Wheelachse
+    3300016: Wheelachse2
+    4300000: Wheelachse2
+    4300002: Wheelachse
+    4300004: Wheel4
+    4300006: Wheel2
+    4300008: Wheel3
+    4300010: Wheel1
+    4300012: Spiegel R
+    4300014: Spiegel L
+    4300016: Cube
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BusMatrial
+    second: {fileID: 2100000, guid: fa5c7d4ea15c6c04c91bc7193e102d88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 27e1cf0779d5753459201a22557b36f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matrial Spiegel
+    second: {fileID: 2100000, guid: 84a8d25fbd71ada40acc226f1275a33c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: 4aa2a1e86ec3c5345a06a94ca176979c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+<routes>
+	<vType id="passenger" vClass="passenger"/>
+    <vehicle id="0" type="passenger" depart="0.00">
+        <route edges="gneE7 gneE0 gneE1"/>
+    </vehicle>
+		<flow id="carflow" type="passenger" beg="0" end="0" number="2" from="gneE1" to="gneE7"/>
+	<flow id="carbackflow" type="passenger" beg="0" end="0" number="1" from="-gneE1" to="-gneE2"/>
+    <vehicle id="1" type="passenger" depart="1.00">
+        <route edges="gneE3 gneE4"/>
+    </vehicle>
+    <vehicle id="2" type="passenger" depart="2.00">
+        <route edges=" gneE1 gneE2 gneE3 gneE4"/>
+    </vehicle>
+		<vehicle id="10" type="passenger" depart="2.00">
+        <route edges=" -gneE2 -gneE1 -gneE0 -gneE7"/>
+    </vehicle>
+    <vehicle id="3" type="passenger" depart="3.00">
+        <route edges=" gneE2 gneE3 gneE4 gneE5"/>
+    </vehicle>
+	<vehicle id="11" type="passenger" depart="3.00">
+        <route edges=" -gneE0 -gneE7 -gneE6"/>
+    </vehicle>
+
+	<!--vType id="car" type="passenger" length="5" accel="3.5" decel="2.2" sigma="1.0"/>
+	<flow id="revcarflow" type="car" beg="0" end="0" number="5" from="-gneE1" to="-gneE2"/>	
+   	<flow id="carflow" type="car" beg="0" end="0" number="7" from="gneE1" to="gneE7"/>
+	<vType id="bicycle" type="bicycle" length="2.5" accel="2" decel="1.5" sigma="0.5" color="0,222,222" maxSpeed="12"/>
+    <flow id="bicycleflow" type="bicycle" beg="0" end="50" number="2" from="gneE2" to="gneE1"/>
+	<person id="person0" depart="0">
+        <walk from="gneE1" to="gneE4"/>
+    </person>
+	<person id="person1" depart="3">
+        <walk from="gneE1" to="-gneE7"/>
+    </person-->
+</routes>

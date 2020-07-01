@@ -1,0 +1,15 @@
+<configuration>
+
+    <input>
+        <net-file value="AmpelDemo.net.xml"/>
+		<route-files value="AmpelDemo.trips.xml"/>
+        <gui-settings-file value="AmpelDemo.settings.xml"/>
+        <additional-files value="AmpelDemo.add.xml"/>
+    </input>
+	
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+	
+</configuration>

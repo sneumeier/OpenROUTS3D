@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2889470404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e05771bf6673b5c9d9bee3406d98be5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3ab3760100fc3af8d6655a51618d221
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa012364810e43b4da59ffe7e2152b27, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a9acf740bcd94146a9b4a32f3afd235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172e955ad33ed3547be809e2b75faa4c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AddonBundleAssets/CarPack/Car-3.prefab
+- Assets/AddonBundleAssets/CarPack/AssetPack.prefab
+Dependencies: []

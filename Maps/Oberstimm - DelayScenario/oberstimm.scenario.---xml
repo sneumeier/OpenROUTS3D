@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ScenarioDelayBeacon>
+    <X>858.1983</X>
+    <Y>0.05</Y>
+    <Z>1212.289</Z>
+    <RX>0</RX>
+    <RY>0</RY>
+    <RZ>0</RZ>
+    <inputDelayZones>
+      <KeyValuePair>
+        <Key>0</Key>
+        <Value>0</Value>
+      </KeyValuePair>
+      <KeyValuePair>
+        <Key>75</Key>
+        <Value>0.33</Value>
+      </KeyValuePair>
+      <KeyValuePair>
+        <Key>150</Key>
+        <Value>0.66</Value>
+      </KeyValuePair>
+      <KeyValuePair>
+        <Key>220</Key>
+        <Value>1</Value>
+      </KeyValuePair>
+      <KeyValuePair>
+        <Key>300</Key>
+        <Value>1.5</Value>
+      </KeyValuePair>
+    </inputDelayZones>
+    <frameDelayZones />
+  </ScenarioDelayBeacon>
+  <ScenarioSpawnPoint>
+    <X>850.196</X>
+    <Y>1.048282</Y>
+    <Z>1243.336</Z>
+    <RX>6.153158E-05</RX>
+    <RY>166.8673</RY>
+    <RZ>-0.0005480285</RZ>
+  </ScenarioSpawnPoint>
+</root>

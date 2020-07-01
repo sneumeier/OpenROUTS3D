@@ -1,0 +1,9 @@
+<Model>
+	<Title>peugeot-308</Title>
+	<License>CC-BY<License>
+	<Source>www.sweethome3d.com/models/scopia/peugeot-308.zip</Source>
+	<Author>Emmanuel PUYBARET / eTeks (info@eteks.com) and Scopia Visual Interfaces Systems, s.l. (http://www.scopia.es)</Author>
+	<Modifications>	- Resized the model
+		- Set origin of each wheel to each ones center
+	</Modifications>
+</Model>

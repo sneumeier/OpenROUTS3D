@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ScenarioStaticCar>
+    <X>99.77428</X>
+    <Y>0.05</Y>
+    <Z>54.20354</Z>
+    <RX>0</RX>
+    <RY>0</RY>
+    <RZ>0</RZ>
+  </ScenarioStaticCar>
+  <ScenarioStaticCar>
+    <X>104.96</X>
+    <Y>0.05</Y>
+    <Z>54.02</Z>
+    <RX>0</RX>
+    <RY>0</RY>
+    <RZ>0</RZ>
+  </ScenarioStaticCar>
+  <ScenarioStaticCar>
+    <X>110.94</X>
+    <Y>0.05</Y>
+    <Z>53.94865</Z>
+    <RX>0</RX>
+    <RY>0</RY>
+    <RZ>0</RZ>
+  </ScenarioStaticCar>
+  <ScenarioStaticCar>
+    <X>118.4767</X>
+    <Y>0.05</Y>
+    <Z>53.9311</Z>
+    <RX>0</RX>
+    <RY>0</RY>
+    <RZ>0</RZ>
+  </ScenarioStaticCar>
+  <ScenarioSpawnPoint>
+    <X>79.27406</X>
+    <Y>1.048282</Y>
+    <Z>60.12531</Z>
+    <RX>-1.557677E-06</RX>
+    <RY>91.19651</RY>
+    <RZ>-9.827073E-06</RZ>
+  </ScenarioSpawnPoint>
+</root>

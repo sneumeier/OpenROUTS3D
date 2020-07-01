@@ -1,0 +1,7 @@
+<configuration>
+    <input>
+       <net-file value="FussgaengerRadfahrerDemo2.net.xml"/>
+       <route-files value="FussgaengerRadfahrerDemo2.rou.xml"/>
+	   <additional-files value="FussgaengerRadfahrerDemo2.add.xml"/>
+    </input>
+</configuration>

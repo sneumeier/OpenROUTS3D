@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 3997529ecb45f4f479076a688865ad84
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blende_LOD0
+    100002: Blende_LOD1
+    100004: Blende_LOD2
+    100006: Form
+    100008: Form_001
+    100010: Gehaeuse_LOD0
+    100012: Gehaeuse_LOD1
+    100014: Gehaeuse_LOD2
+    100016: Gelb_LOD0
+    100018: Gelb_LOD1
+    100020: Gelb_LOD2
+    100022: Glas_LOD0
+    100024: Glas_LOD1
+    100026: Glas_LOD2
+    100028: Gruen_LOD0
+    100030: Gruen_LOD1
+    100032: Gruen_LOD2
+    100034: Rot_LOD0
+    100036: Rot_LOD1
+    100038: Rot_LOD2
+    100040: //RootNode
+    400000: Blende_LOD0
+    400002: Blende_LOD1
+    400004: Blende_LOD2
+    400006: Form
+    400008: Form_001
+    400010: Gehaeuse_LOD0
+    400012: Gehaeuse_LOD1
+    400014: Gehaeuse_LOD2
+    400016: Gelb_LOD0
+    400018: Gelb_LOD1
+    400020: Gelb_LOD2
+    400022: Glas_LOD0
+    400024: Glas_LOD1
+    400026: Glas_LOD2
+    400028: Gruen_LOD0
+    400030: Gruen_LOD1
+    400032: Gruen_LOD2
+    400034: Rot_LOD0
+    400036: Rot_LOD1
+    400038: Rot_LOD2
+    400040: //RootNode
+    2300000: Blende_LOD0
+    2300002: Blende_LOD1
+    2300004: Blende_LOD2
+    2300006: Form
+    2300008: Form_001
+    2300010: Gehaeuse_LOD0
+    2300012: Gehaeuse_LOD1
+    2300014: Gehaeuse_LOD2
+    2300016: Gelb_LOD0
+    2300018: Gelb_LOD1
+    2300020: Gelb_LOD2
+    2300022: Glas_LOD0
+    2300024: Glas_LOD1
+    2300026: Glas_LOD2
+    2300028: Gruen_LOD0
+    2300030: Gruen_LOD1
+    2300032: Gruen_LOD2
+    2300034: Rot_LOD0
+    2300036: Rot_LOD1
+    2300038: Rot_LOD2
+    3300000: Blende_LOD0
+    3300002: Blende_LOD1
+    3300004: Blende_LOD2
+    3300006: Form
+    3300008: Form_001
+    3300010: Gehaeuse_LOD0
+    3300012: Gehaeuse_LOD1
+    3300014: Gehaeuse_LOD2
+    3300016: Gelb_LOD0
+    3300018: Gelb_LOD1
+    3300020: Gelb_LOD2
+    3300022: Glas_LOD0
+    3300024: Glas_LOD1
+    3300026: Glas_LOD2
+    3300028: Gruen_LOD0
+    3300030: Gruen_LOD1
+    3300032: Gruen_LOD2
+    3300034: Rot_LOD0
+    3300036: Rot_LOD1
+    3300038: Rot_LOD2
+    4300000: Glas_LOD2
+    4300002: Blende_LOD2
+    4300004: Rot_LOD2
+    4300006: Gelb_LOD2
+    4300008: Gruen_LOD2
+    4300010: Gruen_LOD1
+    4300012: Gelb_LOD1
+    4300014: Rot_LOD1
+    4300016: Blende_LOD1
+    4300018: Form_001
+    4300020: Gehaeuse_LOD2
+    4300022: Glas_LOD1
+    4300024: Rot_LOD0
+    4300026: Gelb_LOD0
+    4300028: Gruen_LOD0
+    4300030: Blende_LOD0
+    4300032: Form
+    4300034: Gehaeuse_LOD1
+    4300036: Glas_LOD0
+    4300038: Gehaeuse_LOD0
+    7400000: Default Take
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelb
+    second: {fileID: 2100000, guid: fc960f0eb3bb6ce489711ebf673a7758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas
+    second: {fileID: 2100000, guid: e18f1303446eb944f983a160033afc7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gruen
+    second: {fileID: 2100000, guid: 0985b147b8fb6104a8795798a458782d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rot
+    second: {fileID: 2100000, guid: 7843df18b2eb2dd4c8328c85c5210dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Signalgebergehaeuse
+    second: {fileID: 2100000, guid: f0932e91aab122d4fbe7ff9920f2a26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b8e4a88df3c2a824bbb09ec07fa692ff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

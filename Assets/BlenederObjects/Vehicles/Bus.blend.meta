@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: c3762e613a152b642be94ce7d56d30da
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: "\u67F1\u4F53"
+    100006: "\u67F1\u4F53_001"
+    100008: "\u67F1\u4F53_002"
+    100010: "\u67F1\u4F53_003"
+    100012: "\u67F1\u4F53_004"
+    100014: "\u67F1\u4F53_005"
+    100016: "\u67F1\u4F53_006"
+    100018: "\u67F1\u4F53_007"
+    100020: Spiegel_L
+    100022: Spiegel_R
+    100024: Wheel1
+    100026: Wheel2
+    100028: Wheel3
+    100030: Wheel4
+    100032: Wheelachse
+    100034: Wheelachse2
+    400000: //RootNode
+    400002: Cube
+    400004: "\u67F1\u4F53"
+    400006: "\u67F1\u4F53_001"
+    400008: "\u67F1\u4F53_002"
+    400010: "\u67F1\u4F53_003"
+    400012: "\u67F1\u4F53_004"
+    400014: "\u67F1\u4F53_005"
+    400016: "\u67F1\u4F53_006"
+    400018: "\u67F1\u4F53_007"
+    400020: Spiegel_L
+    400022: Spiegel_R
+    400024: Wheel1
+    400026: Wheel2
+    400028: Wheel3
+    400030: Wheel4
+    400032: Wheelachse
+    400034: Wheelachse2
+    2300000: Cube
+    2300002: "\u67F1\u4F53"
+    2300004: "\u67F1\u4F53_001"
+    2300006: "\u67F1\u4F53_002"
+    2300008: "\u67F1\u4F53_003"
+    2300010: "\u67F1\u4F53_004"
+    2300012: "\u67F1\u4F53_005"
+    2300014: "\u67F1\u4F53_006"
+    2300016: "\u67F1\u4F53_007"
+    2300018: Spiegel_L
+    2300020: Spiegel_R
+    2300022: Wheel1
+    2300024: Wheel2
+    2300026: Wheel3
+    2300028: Wheel4
+    2300030: Wheelachse
+    2300032: Wheelachse2
+    3300000: Cube
+    3300002: "\u67F1\u4F53"
+    3300004: "\u67F1\u4F53_001"
+    3300006: "\u67F1\u4F53_002"
+    3300008: "\u67F1\u4F53_003"
+    3300010: "\u67F1\u4F53_004"
+    3300012: "\u67F1\u4F53_005"
+    3300014: "\u67F1\u4F53_006"
+    3300016: "\u67F1\u4F53_007"
+    3300018: Spiegel_L
+    3300020: Spiegel_R
+    3300022: Wheel1
+    3300024: Wheel2
+    3300026: Wheel3
+    3300028: Wheel4
+    3300030: Wheelachse
+    3300032: Wheelachse2
+    4300000: "\u67F1\u4F53_007"
+    4300002: "\u67F1\u4F53_006"
+    4300004: "\u67F1\u4F53_005"
+    4300006: "\u67F1\u4F53_003"
+    4300008: "\u67F1\u4F53_004"
+    4300010: "\u67F1\u4F53_002"
+    4300012: "\u67F1\u4F53_001"
+    4300014: "\u67F1\u4F53"
+    4300016: Cube
+    4300018: Wheelachse2
+    4300020: Wheelachse
+    4300022: Wheel4
+    4300024: Wheel2
+    4300026: Wheel3
+    4300028: Wheel1
+    4300030: Spiegel_R
+    4300032: Spiegel_L
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BusMatrial__BusTexture_png
+    second: {fileID: 2100000, guid: 1389b3ce87e0c8948b2b9c392ce74c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass__BusTexture_png
+    second: {fileID: 2100000, guid: 2a11993e548181141ba2f01c67f4d9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matrial_Spiegel
+    second: {fileID: 2100000, guid: 2f2dbc42ea5a2594bacd180cd3dda427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b8e4a88df3c2a824bbb09ec07fa692ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: fd4cc59465962ac48bdac98d8a9053a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u73BB\u7483"
+    second: {fileID: 2100000, guid: e6157c14e8324e846a59e867e705a395, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

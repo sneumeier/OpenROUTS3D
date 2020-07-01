@@ -1,0 +1,302 @@
+<Credits>
+	<Sound>
+        <Title>tik</Title>
+        <Source>https://freesound.org/people/FireDetection101/sounds/502652/</Source>
+        <License>CC-0</License>
+        <Author>FireDetection101</Author>
+        <Modifications>Only took a single signal</Modifications>
+    </Sound>
+	
+	<Sound>
+        <Title>tok</Title>
+        <Source>https://freesound.org/people/FireDetection101/sounds/502652/</Source>
+        <License>CC-0</License>
+        <Author>FireDetection101</Author>
+        <Modifications>Only took a single signal</Modifications>
+    </Sound>	
+	
+	<Sound>
+        <Title>CarIgnition</Title>
+        <Source>https://freesound.org/people/InspectorJ/sounds/338954/</Source>
+        <License>CC-BY</License>
+        <Author>InspectorJ</Author>
+        <Modifications>Cut off sounds after the engine ignition</Modifications>
+    </Sound>
+	
+	<Sound>
+        <Title>RainWindshield</Title>
+        <Source>https://freesound.org/people/eRobb4/sounds/344463/</Source>
+        <License>CC-0</License>
+        <Author>eRobb4</Author>
+        <Modifications>Only used first 8 seconds and reduced sampling rate to save space</Modifications>
+    </Sound>
+
+    <Sound>
+        <Title>Engine-1</Title>
+        <Source>https://freesound.org/people/cr4sht3st/sounds/157144/</Source>
+        <License>CC-0</License>
+        <Author>cr4sht3st</Author>
+        <Modifications>Cut the file and used only the first crashing sound</Modifications>
+    </Sound>
+    
+    <Model>
+        <Title>Randomation Vehicle Physics</Title>
+        <License>MIT</License>
+        <Source>https://github.com/JustInvoke/Randomation-Vehicle-Physics</Source>
+        <Author>JustInvoke</Author>
+        <Modifications>Adjusted to fit within the driving simulator, e.g. frame-based
+                       physics were adapted.
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Ambulance</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/8NOFImgkI5N</Source>
+        <Author>Poly by Google</Author>
+        <Modifications>- Resized the model
+        - Split the model into single parts
+        - Set the origin of each wheel to its center
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Convertible</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/8ACz9InIO0c</Source>
+        <Author>Poly by Google</Author>
+        <Modifications>- Resized the model</Modifications>
+    </Model>
+    <Model>
+        <Title>A Car</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/4NkJM9Kv3CC</Source>
+        <Author>Sergey Lysenko</Author>
+        <Modifications>- Removed the Logos</Modifications>
+    </Model>
+    <Model>
+        <Title>Time Hotel 7.04 (Car)</Title>
+        <License>CC-BY</License>
+        <Source> https://poly.google.com/view/664J72tZ7-Q</Source>
+        <Author>S. Paul Michael</Author>
+        <Modifications>	- Resized the model</Modifications>
+    </Model>
+    <Model>
+        <Title>concept-sedan-01v2</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/katorlegaz/concept-sedan-01v2.zip</Source>
+        <Author>Andrew Kator and Jennifer Legaz</Author>
+        <Modifications>- The wheels are grouped
+- Orientation center of the wheel moved to object
+- Orientation center of the steering wheel moved to object 
+- Resized the Model
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>concept-sedan-02</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/katorlegaz/concept-sedan-02.zip</Source>
+        <Author>Andrew Kator and Jennifer Legaz</Author>
+        <Modifications>- The wheels are grouped
+- Orientation center of the wheel moved to object
+- Orientation center of the steering wheel moved to object 
+- Resized the model
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Bangladesh Fire Service and Civi</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/1VrBUpVkwDG</Source>
+        <Author>Enter Inventive Studio</Author>
+        <Modifications>- Set origin of tires to the geometric center
+- Separated the mesh of the rear tires and the interiors
+- Resized the model
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Fire Truck</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/7iHJ519SwxG</Source>
+        <Author> Ivan Klus</Author>
+        <Modifications>- Resized the model
+- Set the origin of each tire to its center
+- Grouped the parts of each tire
+- Rotated the model
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Ford Focus</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/blendswap-cc-by/fordFocus.zip</Source>
+        <Author>Ruff. Simplified by Emmanuel Puybaret / eTeks</Author>
+        <Modifications>- Ungrouped the wheels and set the origin to each wheel
+- Resized the car
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>peugeot-308</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/scopia/peugeot-308.zip</Source>
+        <Author>Emmanuel PUYBARET / eTeks (info@eteks.com) and Scopia Visual Interfaces Systems, s.l. (http://www.scopia.es)</Author>
+        <Modifications>- Resized the model
+- Set origin of each wheel to each ones center
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>renault-scenic</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/scopia/renault-scenic.zip</Source>
+        <Author>Emmanuel PUYBARET / eTeks (info@eteks.com) and Scopia Visual Interfaces Systems, s.l. (http://www.scopia.es)</Author>
+        <Modifications>- Resized the model
+- Moved the origin of each wheel to its center
+        </Modifications>  
+    </Model>
+    <Model>
+        <Title>seat_leon</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/scopia/seat_leon.zip</Source>
+        <Author>Scopia Visual Interfaces Systems, s.l. (http://www.scopia.es)</Author>
+        <Modifications>- Moved the origin of the wheels to their chenters
+- Resized the model
+- Removed the jpg with the logo
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Truck</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/scopia/truck.zip</Source>
+        <Author>Emmanuel PUYBARET / eTeks (info@eteks.com) and Scopia Visual Interfaces Systems, s.l. (http://www.scopia.es)</Author>
+        <Modifications>- Resized the model
+- Split the mesh into single objects
+- Grouped the parts of each tire
+⁻ Set the origin of each tire to its center
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Rruck</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/2F-L9yh4Qol</Source>
+        <Author>Enter Inventive Studio</Author>
+        <Modifications>- Removed the trailer
+- Split the model in parts
+- Grouped the tires
+- Set the origin of each tire to its center
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>Truck</Title>
+        <License>CC-BY</License>
+        <Source>https://poly.google.com/view/41Rsh7ds1om</Source>
+        <Author>Poly by Google</Author>
+        <Modifications>- Mesh split into single parts
+- Tires grouped
+- Set origin of the tires to their center
+        </Modifications>
+    </Model>
+    <Model>
+        <Title>VW-new-beetle</Title>
+        <License>CC-BY</License>
+        <Source>www.sweethome3d.com/models/katorlegaz/VW-new-beetle.zip</Source>
+        <Author>unknown</Author>
+        <Modifications>- Front tires rotated in driving direction
+- Removed VW Logo
+- Set origin of tires to their geometric center
+- Resized the Model
+        </Modifications>
+    </Model>
+    
+    <Texture>
+		<Title>Smoke Aura</Title>
+		<License>CC-0</License>
+		<Source>https://opengameart.org/content/smoke-aura</Source>
+		<Author>Beast</Author>
+		<Modifications></Modifications>
+	</Texture>
+		<Texture>
+		<Title>Lightning</Title>
+		<License>CC-0</License>
+		<Source>https://openclipart.org/detail/192743/lightning</Source>
+		<Author>conte magnus</Author>
+		<Modifications>- Removed the glowing effect
+- Resized the image
+- Added transparent background</Modifications>
+	</Texture>
+	<Texture>
+		<Title>Lightning Animation</Title>
+		<License>CC-0</License>
+		<Source>https://opengameart.org/content/lightning-animation</Source>
+		<Author>Calinou</Author>
+		<Modifications>- Merged the single pictures into one file</Modifications>
+	</Texture>
+	<Texture>
+		<Title>Lightning</Title>
+		<License>CC-BY</License>
+		<Source>https://opengameart.org/content/lightning-1</Source>
+		<Author>oglsdl</Author>
+		<Modifications></Modifications>
+	</Texture>
+	<Texture>
+		<Title>Rain Background</Title>
+		<License>CC-0</License>
+		<Source>https://openclipart.org/detail/310779/rain-background</Source>
+		<Author>GDJ</Author>
+		<Modifications>- Rotated the image
+- Copy and pasted some parts
+- Changed the color</Modifications>
+	</Texture>
+	<Texture>
+		<Title>rain drops</Title>
+		<License>CC-0</License>
+		<Source>https://openclipart.org/detail/296093/rain-drops</Source>
+		<Author>cactus cowboy</Author>
+		<Modifications>- Removed the big drops and added some small ones.
+- Cut out one drop for the ripples</Modifications>
+	</Texture>
+
+	<Texture>
+		<Title>CloudyLightRays</Title>
+		<License>CC-BY-SA</License>
+		<Source>Not working any more:https://93i.de/downloads/skybox/skyboxset1.zip
+Can be found under: https://github.com/minetest-mods/skybox</Source>
+		<Author>Heiko Irrgang</Author>
+		<Modifications></Modifications>
+	</Texture>
+	<Texture>
+		<Title>DarkStormy</Title>
+		<License>CC-BY-SA</License>
+		<Source>Not working any more:https://93i.de/downloads/skybox/skyboxset1.zip
+Can be found under: https://github.com/minetest-mods/skybox</Source>
+		<Author>Heiko Irrgang</Author>
+		<Modifications></Modifications>
+	</Texture>
+	<Texture>
+		<Title>FullMoon</Title>
+		<License>CC-BY-SA</License>
+		<Source>Not working any more:https://93i.de/downloads/skybox/skyboxset1.zip
+Can be found under: https://github.com/minetest-mods/skybox</Source>
+		<Author>Heiko Irrgang</Author>
+		<Modifications></Modifications>
+	</Texture>
+	<Texture>
+		<Title>SunSet</Title>
+		<License>CC-BY-SA</License>
+		<Source>Not working any more:https://93i.de/downloads/skybox/skyboxset1.zip
+Can be found under: https://github.com/minetest-mods/skybox</Source>
+		<Author>Heiko Irrgang</Author>
+		<Modifications></Modifications>
+	</Texture>
+	<Texture>
+		<Title>ThickCloudsWater</Title>
+		<License>CC-BY-SA</License>
+		<Source>Not working any more:https://93i.de/downloads/skybox/skyboxset1.zip
+Can be found under: https://github.com/minetest-mods/skybox</Source>
+		<Author>Heiko Irrgang</Author>
+		<Modifications></Modifications>
+	</Texture>
+	<Texture>
+		<Title>TropicalSunnyDay</Title>
+		<License>CC-BY-SA</License>
+		<Source>Not working any more:https://93i.de/downloads/skybox/skyboxset1.zip
+Can be found under: https://github.com/minetest-mods/skybox</Source>
+		<Author>Heiko Irrgang</Author>
+		<Modifications></Modifications>
+	</Texture>
+</Credits>

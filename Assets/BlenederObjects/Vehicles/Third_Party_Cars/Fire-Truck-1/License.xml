@@ -1,0 +1,10 @@
+<Model>
+	<Title>Bangladesh Fire Service & Civi</Title>
+	<License>CC-BY<License>
+	<Source>https://poly.google.com/view/1VrBUpVkwDG</Source>
+	<Author>Enter Inventive Studio</Author>
+	<Modifications>	- Set origin of tires to the geometric center
+		- Separated the mesh of the rear tires and the interiors
+		- Resized the model
+	</Modifications>
+</Model>

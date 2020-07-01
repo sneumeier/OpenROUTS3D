@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 674c3fe5f1b786e459ec4d9eb41b66e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: //RootNode
+    100006: "\u65E5\u5149"
+    100008: "\u67F1\u4F53"
+    100010: "\u7403\u4F53"
+    100012: "\u7403\u4F53.001"
+    100014: "\u7403\u4F53.004"
+    100016: "\u7ACB\u65B9\u4F53"
+    100018: Ampel
+    100020: green
+    100022: Lamp001
+    100024: Pfahl
+    100026: red
+    100028: yellow
+    400000: Camera
+    400002: Lamp
+    400004: //RootNode
+    400006: "\u65E5\u5149"
+    400008: "\u67F1\u4F53"
+    400010: "\u7403\u4F53"
+    400012: "\u7403\u4F53.001"
+    400014: "\u7403\u4F53.004"
+    400016: "\u7ACB\u65B9\u4F53"
+    400018: Ampel
+    400020: green
+    400022: Lamp001
+    400024: Pfahl
+    400026: red
+    400028: yellow
+    2000000: Camera
+    2300000: "\u67F1\u4F53"
+    2300002: "\u7403\u4F53"
+    2300004: "\u7403\u4F53.001"
+    2300006: "\u7403\u4F53.004"
+    2300008: "\u7ACB\u65B9\u4F53"
+    2300010: Ampel
+    2300012: green
+    2300014: Pfahl
+    2300016: red
+    2300018: yellow
+    3300000: "\u67F1\u4F53"
+    3300002: "\u7403\u4F53"
+    3300004: "\u7403\u4F53.001"
+    3300006: "\u7403\u4F53.004"
+    3300008: "\u7ACB\u65B9\u4F53"
+    3300010: Ampel
+    3300012: green
+    3300014: Pfahl
+    3300016: red
+    3300018: yellow
+    4300000: "\u7403\u4F53.004"
+    4300002: "\u7403\u4F53.001"
+    4300004: "\u7403\u4F53"
+    4300006: "\u7ACB\u65B9\u4F53"
+    4300008: "\u67F1\u4F53"
+    4300010: yellow
+    4300012: green
+    4300014: red
+    4300016: Ampel
+    4300018: Pfahl
+    10800000: Lamp
+    10800002: "\u65E5\u5149"
+    10800004: Lamp001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matrial gelb
+    second: {fileID: 2100000, guid: a056d28a828796541a508062ffe4aa67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matrial green
+    second: {fileID: 2100000, guid: 0f3c409160d351a469276117ae5d8757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatrialStangen
+    second: {fileID: 2100000, guid: 87f7702a96d1d3844b529b3f89ccf5ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matriel rot
+    second: {fileID: 2100000, guid: 6dd90f27920420a45ae5826dcfe25dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5c9611c72c303fb40a256b49fdd72c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.001"
+    second: {fileID: 2100000, guid: 45b9e3d9f593b1743b1e213883277a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.002"
+    second: {fileID: 2100000, guid: 9ddaea88ca730204b83c162e73ee96f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.003"
+    second: {fileID: 2100000, guid: 4fa7dc79594abb5489e1b4e31c36627a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.004"
+    second: {fileID: 2100000, guid: 578c0f71bf7296b41a7adba1104b6fe0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

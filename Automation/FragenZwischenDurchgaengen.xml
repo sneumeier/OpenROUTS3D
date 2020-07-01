@@ -1,0 +1,134 @@
+<AutomatedPlay>
+  <Questions>
+	  <TutorialElement>
+          <Text>Guten Tag,
+
+vielen Dank, dass Sie an unserer Studie zum teleoperierten Fahren teilnehmen.
+Beim teleoperierten Fahren wird das Auto nicht von einer maschinellen künstliche Intelligenz gesteuert. Bei diesem Ansatz steuert ein menschlicher Fahrer das Auto aus der Ferne. Dieser Fahrer wird Teleoperator genannt. Im Auto am Fahrersitz sind Kameras angebracht, so dass der Teleoperator auf Bildschirmen eine Sichtweise auf den Straßenverkehr bekommt, wie es ein Fahrer vor Ort hätte.
+
+In dieser Studie übernehmen Sie die Rolle des Teleoperators. Sie werden mehrmals die selben Strecken in zufälliger Reihenfolge durchlaufen. Bei dieser Studie geht es nicht darum, eine realistische Situation im Straßenverkehr nachzustellen. Die Umgebung und das Kockpit sind eher schematisch dargestellt. Wir wollen untersuchen, wie Sie Sich als Teleoperator in verschiedenen Situationen fühlen und wie gut Sie das Auto in verschiedenen Situationen unter Kontrolle haben.
+
+Sie steuern das Fahrzeug mit Hilfe des Lenkrades vor Ihnen. Durch Lenken steuern Sie die Richtung. Mit dem rechten Pedal beschleunigen Sie, mit dem Mittleren bremsen Sie.
+Da es sich bei dem gestreuten Fahrzeug um ein entferntes Fahrzeug handelt, müssen Sie damit rechnen, dass es bei der Signalübertragung zu Verzögerungen kommen kann. Ihre Eingaben können also verspätet beim Fahrzeug ankommen oder Sie können die Bilder vom Fahrzeug verzögert erhalten.
+Wir bitten Sie, alle Streken unter diesen Bedingungen so gut wie möglich zu fahren.
+
+Zu Beginn bitten wir Sie, einige Fragen zu Ihrer Person zu beantworten. Alle Daten werden anonym gespeichert und werden ausschließlich für diese Studie verwendet.
+
+Im Anschluss bitten wir Sie, sich auf einem Testgelände mit der Steuerung vertraut zu machen.
+Danach durchfahren Sie die eigentlichen Teststrecken. Hier ist es immer Ihre Aufgabe, von von einem Startpunkt zu einem Ziel zu gelangen und dabei einer vorgegebenen Strecke zu folgen.
+
+Während der Studie werden Ihnen auf dem Bildschirm immer wieder einige Fragen präsentiert. Diese dienen zur Erhebung Ihrer Eindrücke beim Fahren.
+
+Die Durchführung der Studie läuft automatisch ab. Sie werden benachrichtigt, sobald diese zu Ende ist.
+
+Sollten Sie noch Fragen haben, können Sie sich nun an das Personal wenden.
+Ansonsten geben Sie bitte das Signal, dass Sie bereit sind zu starten.
+
+Vielen Dank für Ihre Teilnahme.</Text>
+      </TutorialElement>
+        </Questions>
+		  <Scenario>
+     <InterFrameDelay>0.0</InterFrameDelay>
+     <InputDelay>0</InputDelay>
+     <OutputDelay>0</OutputDelay>
+     <Path>Maps/Oberstimm/oberstimm.net.xml</Path>
+	 <Time>50</Time>
+	 <Skippable>true</Skippable>
+  </Scenario>
+	<Questions>
+      <BarElement>
+           <Identifier>FahrtSituation_Kontrolle</Identifier>
+           <Text>Wie empfanden Sie die Situation während der Fahrt?</Text>
+           <Min>0</Min>
+           <Max>1</Max>
+		   <CustomDescription>True</CustomDescription>
+		   <MinDescription>Fahrzeug gut unter Kontrolle</MinDescription>
+		   <MaxDescription>Fahrzeug schlecht unter Kontrolle</MaxDescription>
+      </BarElement>
+	  <BarElement>
+           <Identifier>FahrtSituation_Genehmheit</Identifier>
+           <Text>Wie empfanden Sie die Situation während der Fahrt?</Text>
+           <Min>0</Min>
+           <Max>1</Max>
+		   <CustomDescription>True</CustomDescription>
+		   <MinDescription>Angenehm</MinDescription>
+		   <MaxDescription>Unangenehm</MaxDescription>
+      </BarElement>
+	  <BarElement>
+           <Identifier>FahrtSituation_Erträglichkeit</Identifier>
+           <Text>Wie empfanden Sie die Situation während der Fahrt?</Text>
+           <Min>0</Min>
+           <Max>1</Max>
+		   <CustomDescription>True</CustomDescription>
+		   <MinDescription>Gut erträglich</MinDescription>
+		   <MaxDescription>Schlecht erträglich</MaxDescription>
+      </BarElement>
+	  <BarElement>
+           <Identifier>FahrtSituation_Forderung</Identifier>
+           <Text>Wie empfanden Sie die Situation während der Fahrt?</Text>
+           <Min>0</Min>
+           <Max>1</Max>
+		   <CustomDescription>True</CustomDescription>
+		   <MinDescription>Unterfordert</MinDescription>
+		   <MaxDescription>Überfordert</MaxDescription>
+      </BarElement>
+	  <BarElement>
+           <Identifier>FahrtSituation_Stress</Identifier>
+           <Text>Wie empfanden Sie die Situation während der Fahrt?</Text>
+           <Min>0</Min>
+           <Max>1</Max>
+		   <CustomDescription>True</CustomDescription>
+		   <MinDescription>Stressig</MinDescription>
+		   <MaxDescription>Nicht stressig</MaxDescription>
+      </BarElement>
+	  <BarElement>
+           <Identifier>FahrtSituation_Tauglichkeit</Identifier>
+           <Text>Wie empfanden Sie die Situation während der Fahrt?</Text>
+           <Min>0</Min>
+           <Max>1</Max>
+		   <CustomDescription>True</CustomDescription>
+		   <MinDescription>Tauglich für den Straßenverkehr</MinDescription>
+		   <MaxDescription>Untauglich für den Straßenverkehr</MaxDescription>
+      </BarElement>
+	  <RadioElement>
+           <Identifier>FahrtProbleme</Identifier>
+           <Text>Falls Sie Probleme mit dem Fahren hatten, woran lagen diese:</Text>
+		   <Multiselect>True</Multiselect>
+           <RadioOption>Übersichtlichkeit der Bildschirme</RadioOption>
+           <RadioOption>Steuerung des Lenkrades</RadioOption>
+           <RadioOption>Steuerung der Pedale</RadioOption>
+           <RadioOption>Konstante Verzögerung der Eingaben</RadioOption>
+		   <RadioOption>Unvorhersehbare Verzögerung bei den Eingaben</RadioOption>
+		   <RadioOption>Unklarheit bei der Strecke</RadioOption>
+      </RadioElement>
+	  <RadioElement>
+           <Identifier>FahrtVeränderung</Identifier>
+           <Text>Haben Sie das Gefühl, dass sich ihre Fahrleistung verändert hat im Vergleich zum vorherigen?</Text>
+		   <Multiselect>False</Multiselect>
+           <RadioOption>Verbessert</RadioOption>
+           <RadioOption>Gleich geblieben</RadioOption>
+           <RadioOption>Verschlechtert</RadioOption>
+      </RadioElement>
+   </Questions>
+   <Scenario>
+     <InterFrameDelay>0.0</InterFrameDelay>
+     <InputDelay>0.33</InputDelay>
+     <OutputDelay>0.5</OutputDelay>
+     <Path>Maps/Oberstimm/oberstimm.net.xml</Path>
+	 <Time>50</Time>
+	 <Skippable>true</Skippable>
+  </Scenario>
+   <Questions>
+	  <RadioElement>
+           <Identifier>FahrtVeränderung2</Identifier>
+           <Text>Haben Sie das Gefühl, dass sich ihre Fahrleistung seit Beginn verändert hat?</Text>
+		   <Multiselect>False</Multiselect>
+           <RadioOption>Verbessert</RadioOption>
+           <RadioOption>Gleich geblieben</RadioOption>
+           <RadioOption>Verschlechtert</RadioOption>
+      </RadioElement>
+	  <TutorialElement>
+          <Text>Vielen Dank für Ihre Teilnahme.</Text>
+      </TutorialElement>
+  </Questions>
+</AutomatedPlay>

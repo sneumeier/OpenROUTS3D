@@ -1,0 +1,388 @@
+<AutomatedPlay>
+	<Questions>
+		<TutorialElement>
+			<Text> Guten Tag,
+
+vielen Dank, dass Sie an unserer Studie zum teleoperierten Fahren teilnehmen.
+Beim teleoperierten Fahren wird das Auto nicht von einer maschinellen künstliche Intelligenz gesteuert. Bei diesem Ansatz steuert ein menschlicher Fahrer das Auto aus der Ferne. Dieser Fahrer wird Teleoperator genannt. Im Auto am Fahrersitz sind Kammeras angebracht, so dass der Teleoperator auf Bildschirmen eine Sichtweise auf den Straßenverkehr bekommt, wie es ein Fahrer vor Ort hätte.
+
+In dieser Studie übernehmen Sie die Rolle des Teleoperators. Sie werden mehrmals die selben Strecken in zufälliger Reihenfolge durchlaufen. Bei dieser Studie geht es nicht darum, eine realistische Situation im Straßenverkehr nachzustellen. Die Umgebung und das Kockpit sind eher schematisch dargestellt. Wir wollen untersuchen, wie Sie Sich als Teleoperator in verschiedenen Situationen fühlen und wie gut Sie das Auto in verschiedenen Situationen unter Kontrolle haben.</Text>
+		</TutorialElement>
+
+		<TutorialElement>
+			<Text>Sie steuern das Fahrzeug mit Hilfe des Lenkrades vor Ihnen. Durch Lenken steuern Sie die Richtung. Mit dem rechten Pedal beschleunigen Sie, mit dem Mittleren bremsen Sie.
+Da es sich bei dem gestuerten Fahrzeug um ein entfentes Fahrzeug handelt, müssen Sie damit rechnen, dass es bei der Signalübertragung zu Verzögerungen kommen kann. Ihre Eingaben können also verspätet beim Fahrzeug ankommen oder Sie können die Bilder vom Fahrzeug verzögert erhalten.
+Wir bitten Sie, alle Streken unter diesen Bedingungen so gut wie möglich zu fahren.
+			</Text>
+		</TutorialElement>
+
+		<TutorialElement>
+			<Text>Zu Beginn bitten wir Sie, einige Fragen zu Ihrer Person zu beantworten. Alle Daten werden anonym gespeichert und werden ausschließlich für diese Studie verwendet.
+
+Im Anschluss bitten wir Sie, sich auf einem Testgelände mit der Steuerung vertraut zu machen.
+Danach durchfahren Sie die eigentlichen Teststrecken.
+
+Während der Studie werden Ihnen auf dem Bildschirm immer wieder einige Fragen präsentiert. Diese dienen zur Ehebung Ihrer Eindrücke beim Fahren.
+			</Text>
+		</TutorialElement>
+
+		<TutorialElement>
+			<Text>Die Durchführung der Studie läuft automatisch ab. Sie werden benachtichtigt, wenn diese zu Ende ist.
+
+Sollten Sie noch Fragen haben, können Sie sich nun an das Personal wenden.
+Ansonsten geben Sie bitte das Signal, dass Sie bereit sind zu startren.
+
+Vielen Dank für Ihre Teilnahme.
+			</Text>
+		</TutorialElement>
+	</Questions>
+	<Scenario>
+		<InterFrameDelay>0.0</InterFrameDelay>
+		<InputDelay>0.0</InputDelay>
+		<OutputDelay>0.0</OutputDelay>
+		<Path>Maps/SquareMap/SquareMap.net.xml</Path>
+		<Time>60</Time>
+		<Skippable>true</Skippable>
+	</Scenario>
+	<Questions>
+		<BarElement>
+			<Identifier>Kontrolle-01</Identifier>
+			<Text>Wie gut hatten Sie das Fahrzeug unter Kontrolle</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Fahrzeug gut unter Kontrolle</MinDescription>
+			<MaxDescription>Fahrzeug schlecht unter Kontrolle</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Angenehm-01</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Angenehm</MinDescription>
+			<MaxDescription>Unangenehm</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Ertraeglich-01</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Gut erträglich</MinDescription>
+			<MaxDescription>Schlecht erträglich</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Forderung-01</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Unterfordernd</MinDescription>
+			<MaxDescription>Überfordernd</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Stress-01</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Gestresst</MinDescription>
+			<MaxDescription>Nicht stressig</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Kontrolle-01</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Tauglich für den Straßenverkehr</MinDescription>
+			<MaxDescription>Nicht tauglich für den Straßenverkehr</MaxDescription>
+		</BarElement>
+		<RadioElement>
+			<Identifier>Probleme-01</Identifier>
+			<Text>Falls Sie Probleme mit dem Fahren hatten, woran lagen diese:</Text>
+			<Multiselect>True</Multiselect>
+			<RadioOption>Übersichtlichkeit der Bildschirme</RadioOption>
+			<RadioOption>Steuerung des Lenkrades</RadioOption>
+			<RadioOption>Steuerung der Pedale</RadioOption>
+			<RadioOption>Konstante Verzögerung der Eingaben</RadioOption>
+			<RadioOption>Unvorhersehbare Verzögerung bei den Eingaben</RadioOption>
+			<RadioOption>Unklarheit bei der Strecke</RadioOption>
+		</RadioElement>
+	</Questions>
+	<Scenario>
+		<InterFrameDelay>0.0</InterFrameDelay>
+		<InputDelay>0.0</InputDelay>
+		<OutputDelay>0.0</OutputDelay>
+		<Path>Maps/SquareMap - DelayScenario/SquareMap.net.xml</Path>
+		<Time>60</Time>
+		<Skippable>false</Skippable>
+	</Scenario>
+	<Questions>
+	   <BarElement>
+			<Identifier>Kontrolle-02</Identifier>
+			<Text>Wie gut hatten Sie das Fahrzeug unter Kontrolle</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Fahrzeug gut unter Kontrolle</MinDescription>
+			<MaxDescription>Fahrzeug schlecht unter Kontrolle</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Angenehm-02</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Angenehm</MinDescription>
+			<MaxDescription>Unangenehm</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Ertraeglich-02</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Gut erträglich</MinDescription>
+			<MaxDescription>Schlecht erträglich</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Forderung-02</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Unterfordernd</MinDescription>
+			<MaxDescription>Überfordernd</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Stress-02</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Gestresst</MinDescription>
+			<MaxDescription>Nicht stressig</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Kontrolle-02</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Tauglich für den Straßenverkehr</MinDescription>
+			<MaxDescription>Nicht tauglich für den Straßenverkehr</MaxDescription>
+		</BarElement>
+		<RadioElement>
+			<Identifier>Probleme-02</Identifier>
+			<Text>Falls Sie Probleme mit dem Fahren hatten, woran lagen diese:</Text>
+			<Multiselect>True</Multiselect>
+			<RadioOption>Übersichtlichkeit der Bildschirme</RadioOption>
+			<RadioOption>Steuerung des Lenkrades</RadioOption>
+			<RadioOption>Steuerung der Pedale</RadioOption>
+			<RadioOption>Konstante Verzögerung der Eingaben</RadioOption>
+			<RadioOption>Unvorhersehbare Verzögerung bei den Eingaben</RadioOption>
+			<RadioOption>Unklarheit bei der Strecke</RadioOption>
+		</RadioElement>
+		<BarElement>
+			<Identifier>Veranderung_vorherig-02</Identifier>
+			<Text>Haben Sie das Gefühl, dass sich ihre Fahrleistung verändert hat im Vergleich zum vorherigen Durchgang?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Verbesserung zu dem vorherigen Durchgang</MinDescription>
+			<MaxDescription>Verschlechterung zu dem Vorherigen Durchgang</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Veranderung_global-02</Identifier>
+			<Text>Haben Sie das Gefühl, dass sich ihre Fahrleistung verändert hat im Vergleich zur ersten Fahrt</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Verbesserung seit erster Fahrt</MinDescription>
+			<MaxDescription>Verschlechterung seit erster Fahrt</MaxDescription>
+		</BarElement>
+	</Questions>
+	
+	<Scenario>
+		<InterFrameDelay>0.0</InterFrameDelay>
+		<InputDelay>0.05</InputDelay>
+		<OutputDelay>0.05</OutputDelay>
+		<Path>Maps/SquareMap - PylonScenario/SquareMap.net.xml</Path>
+		<Time>90</Time>
+		<Skippable>true</Skippable>
+	</Scenario>
+	
+		<Questions>
+	   <BarElement>
+			<Identifier>Kontrolle-03</Identifier>
+			<Text>Wie gut hatten Sie das Fahrzeug unter Kontrolle</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Fahrzeug gut unter Kontrolle</MinDescription>
+			<MaxDescription>Fahrzeug schlecht unter Kontrolle</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Angenehm-03</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Angenehm</MinDescription>
+			<MaxDescription>Unangenehm</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Ertraeglich-03</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Gut erträglich</MinDescription>
+			<MaxDescription>Schlecht erträglich</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Forderung-03</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Unterfordernd</MinDescription>
+			<MaxDescription>Überfordernd</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Stress-03</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Gestresst</MinDescription>
+			<MaxDescription>Nicht stressig</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Kontrolle-03</Identifier>
+			<Text>Wie empfanden Sie die Situation während des Fahrens</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Tauglich für den Straßenverkehr</MinDescription>
+			<MaxDescription>Nicht tauglich für den Straßenverkehr</MaxDescription>
+		</BarElement>
+		<RadioElement>
+			<Identifier>Probleme-03</Identifier>
+			<Text>Falls Sie Probleme mit dem Fahren hatten, woran lagen diese:</Text>
+			<Multiselect>True</Multiselect>
+			<RadioOption>Übersichtlichkeit der Bildschirme</RadioOption>
+			<RadioOption>Steuerung des Lenkrades</RadioOption>
+			<RadioOption>Steuerung der Pedale</RadioOption>
+			<RadioOption>Konstante Verzögerung der Eingaben</RadioOption>
+			<RadioOption>Unvorhersehbare Verzögerung bei den Eingaben</RadioOption>
+			<RadioOption>Unklarheit bei der Strecke</RadioOption>
+		</RadioElement>
+		<BarElement>
+			<Identifier>Veranderung_vorherig-03</Identifier>
+			<Text>Haben Sie das Gefühl, dass sich ihre Fahrleistung verändert hat im Vergleich zum vorherigen Durchgang?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Verbesserung zu dem vorherigen Durchgang</MinDescription>
+			<MaxDescription>Verschlechterung zu dem Vorherigen Durchgang</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Veranderung_global-03</Identifier>
+			<Text>Haben Sie das Gefühl, dass sich ihre Fahrleistung verändert hat im Vergleich zur ersten Fahrt</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Verbesserung seit erster Fahrt</MinDescription>
+			<MaxDescription>Verschlechterung seit erster Fahrt</MaxDescription>
+		</BarElement>
+		
+		<TutorialElement>
+			<Text>Es folgt nun ein Einpark Szenario mit Verzögerung</Text>
+		</TutorialElement>
+	</Questions>
+	
+	<Scenario>
+		<InterFrameDelay>0.0</InterFrameDelay>
+		<InputDelay>0.075</InputDelay>
+		<OutputDelay>0.075</OutputDelay>
+		<Path>Maps/SquareMap - ParkingScenario/SquareMap.net.xml</Path>
+		<Time>90</Time>
+		<Skippable>true</Skippable>
+	</Scenario>
+	
+	<Questions>
+		<TutorialElement>
+			<Text>Nachdem Sie nun einige Zeit ein teleoperiertes Fahrzeug gesteuert haben, bitten wir Sie folgende Fragen erneut zu beantworten.</Text>
+		</TutorialElement>
+
+		<BarElement>
+			<Identifier>Vertrauen_telop_post</Identifier>
+			<Text>Wie viel Vertrauen hätten Sie in ein Fahrzeug, das von einem Menschen ferngesteuert wird?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Sehr wenig</MinDescription>
+			<MaxDescription>Sehr viel</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Vertrauen_autonom_post</Identifier>
+			<Text>Wie viel Vertrauen hätten Sie in ein Fahrzeug, das autonom ohne menschliche Eingriffe fährt?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Sehr wenig</MinDescription>
+			<MaxDescription>Sehr viel</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Vertrauen_opnv_telop_post</Identifier>
+			<Text>Würden Sie in ein Taxi oder einen Bus steigen, das/der von einem Menschen ferngesteuert wird?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Auf keinen Fall</MinDescription>
+			<MaxDescription>Auf jeden Fall</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Vertrauen_opnv_autonom_post</Identifier>
+			<Text>Würden Sie in ein Taxi oder einen Bus steigen, das/der autonom ohne menschliche Eingriffe fährt?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Auf keinen Fall</MinDescription>
+			<MaxDescription>Auf jeden Fall</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Zutrauen_selbst_unbemannt_post</Identifier>
+			<Text>Würden Sie sich zutrauen, mit eventuellem vorherigem Training, selbst ein Auto im Straßenverkehr ohne Personen aus der Ferne zu lenken?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Auf keinen Fall</MinDescription>
+			<MaxDescription>Auf jeden Fall</MaxDescription>
+		</BarElement>
+		<BarElement>
+			<Identifier>Zutrauen_selbst_bemannt_post</Identifier>
+			<Text>Würden Sie sich zutrauen, mit eventuellem vorherigem Training, selbst ein Auto im Straßenverkehr mit Personen aus der Ferne zu lenken?</Text>
+			<Min>0</Min>
+			<Max>100</Max>
+			<CustomDescription>True</CustomDescription>
+			<MinDescription>Auf keinen Fall</MinDescription>
+			<MaxDescription>Auf jeden Fall</MaxDescription>
+		</BarElement>
+		
+
+		<TutorialElement>
+			<Text>Vielen Dank, dass Sie sich die Zeit genommen haben, an unserer Studie teilzunehmen.
+
+Das Experiment ist jetzt beendet.
+
+Der Versuchsleiter wird sie in Kürze aufsuchen.
+			</Text>
+		</TutorialElement>
+
+	</Questions>
+	
+</AutomatedPlay>

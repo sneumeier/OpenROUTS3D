@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2352248709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9e5c882135475788805f3deef0995b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 32014d78e313a3f82f5d246d7e63319d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ae516a2b7391414183152181adbc09e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20c1545305bb96141b2d87d7af8fa371, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a9acf740bcd94146a9b4a32f3afd235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9abc3fb704c87f949bbe88e2f6b91dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 226b1b4843f39764d8f9a0b39c98e403, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6f3434b050b7564788f0f1ffef1ef3a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AddonBundleAssets/TestBundle/AssetPack_1.prefab
+- Assets/AddonBundleAssets/TestBundle/TestPack_Icon.png
+- Assets/AddonBundleAssets/TestBundle/AssetPack.prefab
+Dependencies: []

@@ -1,0 +1,6 @@
+ <configuration>
+     <input>
+         <net-file value="eichstaett.net.xml"/> 		
+         <additional-files value="eichstaett.poly.xml"/>
+     </input>
+ </configuration>

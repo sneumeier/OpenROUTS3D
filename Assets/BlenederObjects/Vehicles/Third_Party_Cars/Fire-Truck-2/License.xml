@@ -1,0 +1,11 @@
+<Model>
+	<Title>Fire Truck</Title>
+	<License>CC-BY</License>
+	<Source>https://poly.google.com/view/7iHJ519SwxG</Source>
+	<Author> Ivan Klus</Author>
+	<Modifications>	- Resized the model
+		- Set the origin of each tire to its center
+		- Grouped the parts of each tire
+		- Rotated the model
+	</Modifications>
+</Model>

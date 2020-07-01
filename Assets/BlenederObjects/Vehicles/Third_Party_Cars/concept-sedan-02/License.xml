@@ -1,0 +1,11 @@
+<Model>
+	<Title>concept-sedan-02</Title>
+	<License>CC-BY</License>
+	<Source>www.sweethome3d.com/models/katorlegaz/concept-sedan-02.zip</Source>
+	<Author>Andrew Kator & Jennifer Legaz</Author>
+	<Modifications>	- The wheels are grouped
+		- Orientation center of the wheel moved to object
+		- Orientation center of the steering wheel moved to object 
+		- Resized the model
+	</Modifications>
+</Model>

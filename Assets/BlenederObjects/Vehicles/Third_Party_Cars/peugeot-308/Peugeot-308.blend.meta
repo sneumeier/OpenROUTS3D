@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 9ceabea6d36dc534dbdc86bf4cce36a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: car_001_Plane_003
+    100002: car_Plane_000
+    100004: car_Plane_001
+    100006: car_Plane_002
+    100008: car_Plane_003
+    100010: car_Plane_004
+    100012: car_Plane_005
+    100014: car_Plane_006
+    100016: car_Plane_007
+    100018: car_Plane_008
+    100020: car_Plane_009
+    100022: car_Plane_010
+    100024: car_Plane_011
+    100026: car_Plane_012
+    100028: //RootNode
+    100030: Sphere
+    100032: steering_wheel_Torus_001
+    100034: sweethome3d_window_mirror
+    400000: car_001_Plane_003
+    400002: car_Plane_000
+    400004: car_Plane_001
+    400006: car_Plane_002
+    400008: car_Plane_003
+    400010: car_Plane_004
+    400012: car_Plane_005
+    400014: car_Plane_006
+    400016: car_Plane_007
+    400018: car_Plane_008
+    400020: car_Plane_009
+    400022: car_Plane_010
+    400024: car_Plane_011
+    400026: car_Plane_012
+    400028: //RootNode
+    400030: Sphere
+    400032: steering_wheel_Torus_001
+    400034: sweethome3d_window_mirror
+    2100000: color_seats
+    2100002: car-number
+    2100004: tires__peugeot-308-texture_jpg
+    2100006: wheels__peugeot-308-texture_jpg
+    2100008: color-exterior
+    2100010: black-plastics
+    2100012: floor
+    2100014: color_inside
+    2100016: beige-column
+    2100018: glass
+    2100020: front-lights__peugeot-308-texture_jpg
+    2100022: air-inlet__peugeot-308-texture_jpg
+    2100024: rear-lights__peugeot-308-texture_jpg
+    2100026: esteering_wheel
+    2100028: sweethome3d_window_mirror
+    2100030: brand__peugeot-308-texture_jpg
+    2300000: car_001_Plane_003
+    2300002: car_Plane_000
+    2300004: car_Plane_001
+    2300006: car_Plane_002
+    2300008: car_Plane_003
+    2300010: car_Plane_004
+    2300012: car_Plane_005
+    2300014: car_Plane_006
+    2300016: car_Plane_007
+    2300018: car_Plane_008
+    2300020: car_Plane_009
+    2300022: car_Plane_010
+    2300024: car_Plane_011
+    2300026: car_Plane_012
+    2300028: Sphere
+    2300030: steering_wheel_Torus_001
+    2300032: sweethome3d_window_mirror
+    3300000: car_001_Plane_003
+    3300002: car_Plane_000
+    3300004: car_Plane_001
+    3300006: car_Plane_002
+    3300008: car_Plane_003
+    3300010: car_Plane_004
+    3300012: car_Plane_005
+    3300014: car_Plane_006
+    3300016: car_Plane_007
+    3300018: car_Plane_008
+    3300020: car_Plane_009
+    3300022: car_Plane_010
+    3300024: car_Plane_011
+    3300026: car_Plane_012
+    3300028: Sphere
+    3300030: steering_wheel_Torus_001
+    3300032: sweethome3d_window_mirror
+    4300000: car_Plane_012
+    4300002: car_Plane_011
+    4300004: car_Plane_010
+    4300006: car_Plane_009
+    4300008: car_Plane_008
+    4300010: car_Plane_007
+    4300012: car_Plane_006
+    4300014: car_Plane_005
+    4300016: car_Plane_004
+    4300018: car_Plane_003
+    4300020: car_Plane_001
+    4300022: car_Plane_000
+    4300024: car_Plane_002
+    4300026: Sphere
+    4300028: steering_wheel_Torus_001
+    4300030: sweethome3d_window_mirror
+    4300032: car_001_Plane_003
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

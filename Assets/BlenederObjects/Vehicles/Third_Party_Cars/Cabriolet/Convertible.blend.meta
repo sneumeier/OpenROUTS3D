@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 26967294ebf3a4d45876c77575bbcf48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Convertible1
+    100004: Glass1
+    100006: Helm
+    100008: Spotlight
+    100010: Spotlight2
+    100012: Wheel_a2
+    100014: Wheel_a3
+    100016: Wheel_a4
+    100018: Wheel_a5
+    100020: Windshield_wipers_c2
+    100022: Windshield_wipers_c3
+    400000: //RootNode
+    400002: Convertible1
+    400004: Glass1
+    400006: Helm
+    400008: Spotlight
+    400010: Spotlight2
+    400012: Wheel_a2
+    400014: Wheel_a3
+    400016: Wheel_a4
+    400018: Wheel_a5
+    400020: Windshield_wipers_c2
+    400022: Windshield_wipers_c3
+    2100000: lambert5SG__Convertible_Texture_png
+    2100002: lambert6SG
+    2300000: Convertible1
+    2300002: Glass1
+    2300004: Helm
+    2300006: Spotlight
+    2300008: Spotlight2
+    2300010: Wheel_a2
+    2300012: Wheel_a3
+    2300014: Wheel_a4
+    2300016: Wheel_a5
+    2300018: Windshield_wipers_c2
+    2300020: Windshield_wipers_c3
+    3300000: Convertible1
+    3300002: Glass1
+    3300004: Helm
+    3300006: Spotlight
+    3300008: Spotlight2
+    3300010: Wheel_a2
+    3300012: Wheel_a3
+    3300014: Wheel_a4
+    3300016: Wheel_a5
+    3300018: Windshield_wipers_c2
+    3300020: Windshield_wipers_c3
+    4300000: Convertible1
+    4300002: Glass1
+    4300004: Helm
+    4300006: Spotlight
+    4300008: Spotlight2
+    4300010: Wheel_a5
+    4300012: Wheel_a4
+    4300014: Wheel_a3
+    4300016: Windshield_wipers_c3
+    4300018: Windshield_wipers_c2
+    4300020: Wheel_a2
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

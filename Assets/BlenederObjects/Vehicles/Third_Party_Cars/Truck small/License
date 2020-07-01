@@ -1,0 +1,8 @@
+Title: Truck
+License: CC-BY
+Link: https://poly.google.com/view/41Rsh7ds1om
+Author: Poly by Google
+Modifications:
+	- Mesh split into single parts
+	- Tires grouped
+	- Set origin of the tires to their center

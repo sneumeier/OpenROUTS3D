@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 0a083fabfdc2c514c9d228441b3e8c85
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: leaves
+    100006: leaves_MeshPart0
+    100008: leaves_MeshPart1
+    100010: tree
+    100012: //RootNode
+    100014: tree_MeshPart0
+    100016: tree_MeshPart1
+    100018: tree_MeshPart2
+    400000: Camera
+    400002: Lamp
+    400004: leaves
+    400006: leaves_MeshPart0
+    400008: leaves_MeshPart1
+    400010: tree
+    400012: //RootNode
+    400014: tree_MeshPart0
+    400016: tree_MeshPart1
+    400018: tree_MeshPart2
+    2000000: Camera
+    2300000: leaves_MeshPart0
+    2300002: leaves_MeshPart1
+    2300004: tree_MeshPart0
+    2300006: tree_MeshPart1
+    2300008: tree_MeshPart2
+    2300010: leaves
+    2300012: tree
+    3300000: leaves_MeshPart0
+    3300002: leaves_MeshPart1
+    3300004: tree_MeshPart0
+    3300006: tree_MeshPart1
+    3300008: tree_MeshPart2
+    3300010: leaves
+    3300012: tree
+    4300000: tree_MeshPart0
+    4300002: tree_MeshPart1
+    4300004: tree_MeshPart2
+    4300006: leaves_MeshPart0
+    4300008: leaves_MeshPart1
+    4300010: tree
+    4300012: leaves
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baumstam
+    second: {fileID: 2100000, guid: af20ef26f1c36584b81697cac29b85e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leafs
+    second: {fileID: 2100000, guid: 874ab8cf6ef49aa4fa827dd9104c383c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

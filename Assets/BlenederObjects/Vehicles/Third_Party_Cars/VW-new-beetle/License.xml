@@ -1,0 +1,11 @@
+<Model>
+	<Title>VW-new-beetle</Title>
+	<License>CC-BY</License>
+	<Source>www.sweethome3d.com/models/katorlegaz/VW-new-beetle.zip</Source>
+	<Author>unknown</Author>
+	<Modification>	- Front tires rotated in driving direction
+		- Removed VW Logo
+		- Set origin of tires to their geometric center
+		- Resized the Model
+	</Modification>
+</Model>

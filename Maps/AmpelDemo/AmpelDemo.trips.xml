@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- generated on 2017-10-30 20:40:24.041661 by $Id: route2trips.py 25256 2017-07-19 06:38:15Z behrisch $ via randomTrips.py
+  options: -n AmpelDemo.net.xml -r AmpelDemo.rou.xml -o AmpelDemo.trips.xml -e 4 <doubleminus>seed 4 <doubleminus>vehicle-class passenger <doubleminus>vclass passenger <doubleminus>min-distance 30 <doubleminus>validate <doubleminus>verbose
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="passenger" vClass="passenger">
+    </vType>
+    <trip id="0" depart="0.00" from="-gneE3" to="-gneE1" type="passenger"/>
+    <trip id="1" depart="1.00" from="-gneE6" to="-gneE2" type="passenger"/>
+    <trip id="2" depart="2.00" from="-gneE1" to="-gneE6" type="passenger"/>
+    <trip id="3" depart="3.00" from="gneE6" to="gneE4" type="passenger"/>
+</routes>

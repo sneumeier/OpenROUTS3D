@@ -1,0 +1,8 @@
+Title: Ambulance
+License: CC-BY
+Source: https://poly.google.com/view/8NOFImgkI5N
+Author: Poly by Google
+Modifications:
+	- Resized the model
+	- Split the model into single parts
+	- Set the origin of each wheel to its center

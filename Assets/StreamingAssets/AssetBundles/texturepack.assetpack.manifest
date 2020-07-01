@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4054625692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c524befdb5e0a2831319bf92cd5e9876
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767b66a38991256dcc2f235b2141bb16
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a9acf740bcd94146a9b4a32f3afd235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1324e1ce15f347e4c9a29a0525aad123, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AddonBundleAssets/TexturesPack/AssetPack.prefab
+- Assets/AddonBundleAssets/TexturesPack/TestBricks.jpg
+- Assets/AddonBundleAssets/TexturesPack/TexturesPack.png
+- Assets/AddonBundleAssets/TexturesPack/Bricks.mat
+Dependencies: []

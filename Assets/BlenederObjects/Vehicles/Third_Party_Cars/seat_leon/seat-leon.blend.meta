@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: d920bd178ea244444a1c374690aafe37
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: car_Plane_asientos
+    100002: car_Plane_chapa_roja
+    100004: car_Plane_cristales
+    100006: car_Plane_faros_blan_back
+    100008: car_Plane_faros_blancos_faro1_leon_jpg
+    100010: car_Plane_faros_rojos
+    100012: car_Plane_llantas
+    100014: car_Plane_llantas_001
+    100016: car_Plane_llantas_002
+    100018: car_Plane_llantas_003
+    100020: car_Plane_marca
+    100022: car_Plane_neumaticos
+    100024: car_Plane_neumaticos_001
+    100026: car_Plane_neumaticos_002
+    100028: car_Plane_neumaticos_003
+    100030: car_Plane_plastico_negro
+    100032: //RootNode
+    400000: car_Plane_asientos
+    400002: car_Plane_chapa_roja
+    400004: car_Plane_cristales
+    400006: car_Plane_faros_blan_back
+    400008: car_Plane_faros_blancos_faro1_leon_jpg
+    400010: car_Plane_faros_rojos
+    400012: car_Plane_llantas
+    400014: car_Plane_llantas_001
+    400016: car_Plane_llantas_002
+    400018: car_Plane_llantas_003
+    400020: car_Plane_marca
+    400022: car_Plane_neumaticos
+    400024: car_Plane_neumaticos_001
+    400026: car_Plane_neumaticos_002
+    400028: car_Plane_neumaticos_003
+    400030: car_Plane_plastico_negro
+    400032: //RootNode
+    2100000: neumaticos
+    2100002: llantas__llanta_y_logo_jpg
+    2100004: asientos
+    2100006: faros_blan_back
+    2100008: marca__llanta_y_logo_jpg
+    2100010: plastico_negro
+    2100012: faros_rojos
+    2100014: faros_blancos_faro1_leon_jpg__faro1_leon_jpg
+    2100016: cristales
+    2100018: chapa_roja
+    2300000: car_Plane_asientos
+    2300002: car_Plane_chapa_roja
+    2300004: car_Plane_cristales
+    2300006: car_Plane_faros_blan_back
+    2300008: car_Plane_faros_blancos_faro1_leon_jpg
+    2300010: car_Plane_faros_rojos
+    2300012: car_Plane_llantas
+    2300014: car_Plane_llantas_001
+    2300016: car_Plane_llantas_002
+    2300018: car_Plane_llantas_003
+    2300020: car_Plane_marca
+    2300022: car_Plane_neumaticos
+    2300024: car_Plane_neumaticos_001
+    2300026: car_Plane_neumaticos_002
+    2300028: car_Plane_neumaticos_003
+    2300030: car_Plane_plastico_negro
+    3300000: car_Plane_asientos
+    3300002: car_Plane_chapa_roja
+    3300004: car_Plane_cristales
+    3300006: car_Plane_faros_blan_back
+    3300008: car_Plane_faros_blancos_faro1_leon_jpg
+    3300010: car_Plane_faros_rojos
+    3300012: car_Plane_llantas
+    3300014: car_Plane_llantas_001
+    3300016: car_Plane_llantas_002
+    3300018: car_Plane_llantas_003
+    3300020: car_Plane_marca
+    3300022: car_Plane_neumaticos
+    3300024: car_Plane_neumaticos_001
+    3300026: car_Plane_neumaticos_002
+    3300028: car_Plane_neumaticos_003
+    3300030: car_Plane_plastico_negro
+    4300000: car_Plane_neumaticos_003
+    4300002: car_Plane_llantas_003
+    4300004: car_Plane_neumaticos_002
+    4300006: car_Plane_llantas_002
+    4300008: car_Plane_neumaticos_001
+    4300010: car_Plane_llantas_001
+    4300012: car_Plane_asientos
+    4300014: car_Plane_faros_blan_back
+    4300016: car_Plane_marca
+    4300018: car_Plane_plastico_negro
+    4300020: car_Plane_faros_rojos
+    4300022: car_Plane_faros_blancos_faro1_leon_jpg
+    4300024: car_Plane_cristales
+    4300026: car_Plane_neumaticos
+    4300028: car_Plane_llantas
+    4300030: car_Plane_chapa_roja
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

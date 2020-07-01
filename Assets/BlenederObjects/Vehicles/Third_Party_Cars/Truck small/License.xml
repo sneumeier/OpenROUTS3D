@@ -1,0 +1,10 @@
+<Model>
+	<Title>Truck</Title>
+	<License>CC-BY</License>
+	<Source>https://poly.google.com/view/41Rsh7ds1om</Source>
+	<Author>Poly by Google</Author>
+	<Modifications>	- Mesh split into single parts
+		- Tires grouped
+		- Set origin of the tires to their center
+	</Modifications>
+</Model>

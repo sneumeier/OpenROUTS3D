@@ -1,0 +1,11 @@
+python "C:\Program Files (x86)\DLR\Sumo\tools\randomTrips.py"^
+ -n AmpelDemo.net.xml^
+ -r AmpelDemo.rou.xml^
+ -o AmpelDemo.trips.xml^
+ -e 4^
+ --seed 4^
+ --vehicle-class passenger^
+ --vclass passenger^
+ --min-distance 30^
+ --validate^
+ --verbose

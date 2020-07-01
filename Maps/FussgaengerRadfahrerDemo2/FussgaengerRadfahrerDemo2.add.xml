@@ -1,0 +1,22 @@
+<additionals>
+    <rerouter id="rerouter_0" edges="gneE7">
+        <interval end="1e9">
+           <destProbReroute id="gneE0"/>
+        </interval>
+    </rerouter>
+	<rerouter id="rerouter_1" edges="gneE0">
+        <interval end="1e9">
+           <destProbReroute id="gneE7"/>
+        </interval>    
+    </rerouter>
+	<rerouter id="rerouter_2" edges="-gneE0">
+        <interval end="1e9">
+           <destProbReroute id="-gneE1"/>
+        </interval>    
+    </rerouter>
+	<rerouter id="rerouter_3" edges="-gneE1">
+        <interval end="1e9">
+           <destProbReroute id="-gneE0"/>
+        </interval>    
+    </rerouter>
+</additionals>

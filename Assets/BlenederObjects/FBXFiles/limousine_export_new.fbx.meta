@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 934b9ab1ea956aa40af9f0d6ada0b57e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blinker_links_LOD0
+    100002: Blinker_links_LOD1
+    100004: Blinker_links_LOD2
+    100006: Blinker_rechts_LOD0
+    100008: Blinker_rechts_LOD1
+    100010: Blinker_rechts_LOD2
+    100012: Bremsleuchte_LOD0
+    100014: Bremsleuchte_LOD1
+    100016: Bremsleuchte_LOD2
+    100018: Bremsleuchte_Zentral_LOD0
+    100020: Bremsleuchte_Zentral_LOD1
+    100022: Bremsleuchte_Zentral_LOD2
+    100024: Chromleiste_hinten_LOD0
+    100026: Chromleiste_vorne_LOD0
+    100028: Chromteile_LOD1
+    100030: Chromteile_LOD2
+    100032: Cube
+    100034: DashboardAnzeige.001
+    100036: DashboardAnzeige.002
+    100038: DashboardAnzeige.003
+    100040: DashboardAnzeige.004
+    100042: Frontblinkereinfassung_LOD0
+    100044: Frontscheinwerfergehaeuse_LOD0
+    100046: Frontscheinwerferlicht_LOD0
+    100048: Frontscheinwerferlicht_LOD1
+    100050: Frontscheinwerferlicht_LOD2
+    100052: Frontscheinwerferscheibe_LOD0
+    100054: Gang 1.001
+    100056: Gang 2.001
+    100058: Gang 3.001
+    100060: Gang 4.001
+    100062: Gang 5.001
+    100064: Gang R.001
+    100066: Gangschaltung.001
+    100068: Hupe.001
+    100070: Iterior_LOD0
+    100072: Iterior_LOD1
+    100074: Iterior_LOD2
+    100076: Karosserie_LOD0
+    100078: Karosserie_LOD1
+    100080: Karosserie_LOD2
+    100082: Kennzeichen_hinten_LOD0
+    100084: Kennzeichen_LOD1
+    100086: Kennzeichen_LOD2
+    100088: Kennzeichen_vorne_LOD0
+    100090: Kuehlergrill_LOD0
+    100092: Kuehlergrill_LOD1
+    100094: Kuehlergrill_LOD2
+    100096: Kuehlergrilleinfassung_LOD0
+    100098: Kuehlergrillzierleisten_LOD0
+    100100: Kuehlergrillzierleisten_LOD1
+    100102: Kuehlergrillzierleisten_LOD2
+    100104: Lenker Ding 2.001
+    100106: Lenker Ding 3.001
+    100108: Lenker Ding.001
+    100110: Lenker Neu.001
+    100112: //RootNode
+    100114: Nadel.001
+    100116: Nadel.002
+    100118: Rueckfahrscheinwerfer_LOD0
+    100120: Rueckfahrscheinwerfer_LOD1
+    100122: Rueckfahrscheinwerfer_LOD2
+    100124: Rueckleuchtenglas_LOD1
+    100126: Rueckleuchtenglas_LOD2
+    100128: Rueckleuchtenrueckwand_LOD0
+    100130: Rueckleuchtenrueckwand_LOD1
+    100132: Rueckleuchtenrueckwand_LOD2
+    100134: Rueckleuchtenscheibe_LOD0
+    100136: Rueckleuchtentgehause_LOD0
+    100138: Rueckstrahler_LOD0
+    100140: Rueckstrahler_LOD1
+    100142: Rueckstrahler_LOD2
+    100144: Scheiben_LOD0
+    100146: Scheiben_LOD1
+    100148: Scheiben_LOD2
+    100150: Schlussleuchte_LOD0
+    100152: Schlussleuchte_LOD1
+    100154: Schlussleuchte_LOD2
+    100156: Schlussleuchteneinfassung_LOD0
+    100158: Schlussleuchtenglas_LOD0
+    100160: Seitenspiegel_LOD0
+    100162: Seitenspiegel_LOD1
+    100164: Seitenspiegel_LOD2
+    100166: Seitenspiegelblinkerglas_LOD0
+    100168: Seitenspiegelgehhaeuse_LOD0
+    100170: Seitenspiegelgehhaeuse_LOD1
+    100172: Tacho neu.002
+    100174: Tacho neu.003
+    100176: Tacho neu.004
+    100178: Tacho neu.005
+    100180: Tacho Zahl 0.001
+    100182: Tacho Zahl 100.001
+    100184: Tacho Zahl 130.001
+    100186: Tacho Zahl 160.001
+    100188: Tacho Zahl 200.001
+    100190: Tacho Zahl 30.001
+    100192: Tacho Zahl 50.001
+    100194: Tacho Zahl 80.001
+    100196: Tagfahrlicht_LOD0
+    100198: Tagfahrlicht_LOD1
+    100200: Tagfahrlicht_LOD2
+    100202: Tagfahrlichteinfassung_LOD0
+    100204: Unterboden_LOD0
+    100206: Unterboden_LOD1
+    100208: Unterboden_LOD2
+    400000: Blinker_links_LOD0
+    400002: Blinker_links_LOD1
+    400004: Blinker_links_LOD2
+    400006: Blinker_rechts_LOD0
+    400008: Blinker_rechts_LOD1
+    400010: Blinker_rechts_LOD2
+    400012: Bremsleuchte_LOD0
+    400014: Bremsleuchte_LOD1
+    400016: Bremsleuchte_LOD2
+    400018: Bremsleuchte_Zentral_LOD0
+    400020: Bremsleuchte_Zentral_LOD1
+    400022: Bremsleuchte_Zentral_LOD2
+    400024: Chromleiste_hinten_LOD0
+    400026: Chromleiste_vorne_LOD0
+    400028: Chromteile_LOD1
+    400030: Chromteile_LOD2
+    400032: Cube
+    400034: DashboardAnzeige.001
+    400036: DashboardAnzeige.002
+    400038: DashboardAnzeige.003
+    400040: DashboardAnzeige.004
+    400042: Frontblinkereinfassung_LOD0
+    400044: Frontscheinwerfergehaeuse_LOD0
+    400046: Frontscheinwerferlicht_LOD0
+    400048: Frontscheinwerferlicht_LOD1
+    400050: Frontscheinwerferlicht_LOD2
+    400052: Frontscheinwerferscheibe_LOD0
+    400054: Gang 1.001
+    400056: Gang 2.001
+    400058: Gang 3.001
+    400060: Gang 4.001
+    400062: Gang 5.001
+    400064: Gang R.001
+    400066: Gangschaltung.001
+    400068: Hupe.001
+    400070: Iterior_LOD0
+    400072: Iterior_LOD1
+    400074: Iterior_LOD2
+    400076: Karosserie_LOD0
+    400078: Karosserie_LOD1
+    400080: Karosserie_LOD2
+    400082: Kennzeichen_hinten_LOD0
+    400084: Kennzeichen_LOD1
+    400086: Kennzeichen_LOD2
+    400088: Kennzeichen_vorne_LOD0
+    400090: Kuehlergrill_LOD0
+    400092: Kuehlergrill_LOD1
+    400094: Kuehlergrill_LOD2
+    400096: Kuehlergrilleinfassung_LOD0
+    400098: Kuehlergrillzierleisten_LOD0
+    400100: Kuehlergrillzierleisten_LOD1
+    400102: Kuehlergrillzierleisten_LOD2
+    400104: Lenker Ding 2.001
+    400106: Lenker Ding 3.001
+    400108: Lenker Ding.001
+    400110: Lenker Neu.001
+    400112: //RootNode
+    400114: Nadel.001
+    400116: Nadel.002
+    400118: Rueckfahrscheinwerfer_LOD0
+    400120: Rueckfahrscheinwerfer_LOD1
+    400122: Rueckfahrscheinwerfer_LOD2
+    400124: Rueckleuchtenglas_LOD1
+    400126: Rueckleuchtenglas_LOD2
+    400128: Rueckleuchtenrueckwand_LOD0
+    400130: Rueckleuchtenrueckwand_LOD1
+    400132: Rueckleuchtenrueckwand_LOD2
+    400134: Rueckleuchtenscheibe_LOD0
+    400136: Rueckleuchtentgehause_LOD0
+    400138: Rueckstrahler_LOD0
+    400140: Rueckstrahler_LOD1
+    400142: Rueckstrahler_LOD2
+    400144: Scheiben_LOD0
+    400146: Scheiben_LOD1
+    400148: Scheiben_LOD2
+    400150: Schlussleuchte_LOD0
+    400152: Schlussleuchte_LOD1
+    400154: Schlussleuchte_LOD2
+    400156: Schlussleuchteneinfassung_LOD0
+    400158: Schlussleuchtenglas_LOD0
+    400160: Seitenspiegel_LOD0
+    400162: Seitenspiegel_LOD1
+    400164: Seitenspiegel_LOD2
+    400166: Seitenspiegelblinkerglas_LOD0
+    400168: Seitenspiegelgehhaeuse_LOD0
+    400170: Seitenspiegelgehhaeuse_LOD1
+    400172: Tacho neu.002
+    400174: Tacho neu.003
+    400176: Tacho neu.004
+    400178: Tacho neu.005
+    400180: Tacho Zahl 0.001
+    400182: Tacho Zahl 100.001
+    400184: Tacho Zahl 130.001
+    400186: Tacho Zahl 160.001
+    400188: Tacho Zahl 200.001
+    400190: Tacho Zahl 30.001
+    400192: Tacho Zahl 50.001
+    400194: Tacho Zahl 80.001
+    400196: Tagfahrlicht_LOD0
+    400198: Tagfahrlicht_LOD1
+    400200: Tagfahrlicht_LOD2
+    400202: Tagfahrlichteinfassung_LOD0
+    400204: Unterboden_LOD0
+    400206: Unterboden_LOD1
+    400208: Unterboden_LOD2
+    2300000: Blinker_links_LOD0
+    2300002: Blinker_links_LOD1
+    2300004: Blinker_links_LOD2
+    2300006: Blinker_rechts_LOD0
+    2300008: Blinker_rechts_LOD1
+    2300010: Blinker_rechts_LOD2
+    2300012: Bremsleuchte_LOD0
+    2300014: Bremsleuchte_LOD1
+    2300016: Bremsleuchte_LOD2
+    2300018: Bremsleuchte_Zentral_LOD0
+    2300020: Bremsleuchte_Zentral_LOD1
+    2300022: Bremsleuchte_Zentral_LOD2
+    2300024: Chromleiste_hinten_LOD0
+    2300026: Chromleiste_vorne_LOD0
+    2300028: Chromteile_LOD1
+    2300030: Chromteile_LOD2
+    2300032: Cube
+    2300034: DashboardAnzeige.001
+    2300036: DashboardAnzeige.002
+    2300038: DashboardAnzeige.003
+    2300040: DashboardAnzeige.004
+    2300042: Frontblinkereinfassung_LOD0
+    2300044: Frontscheinwerfergehaeuse_LOD0
+    2300046: Frontscheinwerferlicht_LOD0
+    2300048: Frontscheinwerferlicht_LOD1
+    2300050: Frontscheinwerferlicht_LOD2
+    2300052: Frontscheinwerferscheibe_LOD0
+    2300054: Gang 1.001
+    2300056: Gang 2.001
+    2300058: Gang 3.001
+    2300060: Gang 4.001
+    2300062: Gang 5.001
+    2300064: Gang R.001
+    2300066: Gangschaltung.001
+    2300068: Hupe.001
+    2300070: Iterior_LOD0
+    2300072: Iterior_LOD1
+    2300074: Iterior_LOD2
+    2300076: Karosserie_LOD0
+    2300078: Karosserie_LOD1
+    2300080: Karosserie_LOD2
+    2300082: Kennzeichen_hinten_LOD0
+    2300084: Kennzeichen_LOD1
+    2300086: Kennzeichen_LOD2
+    2300088: Kennzeichen_vorne_LOD0
+    2300090: Kuehlergrill_LOD0
+    2300092: Kuehlergrill_LOD1
+    2300094: Kuehlergrill_LOD2
+    2300096: Kuehlergrilleinfassung_LOD0
+    2300098: Kuehlergrillzierleisten_LOD0
+    2300100: Kuehlergrillzierleisten_LOD1
+    2300102: Kuehlergrillzierleisten_LOD2
+    2300104: Lenker Ding 2.001
+    2300106: Lenker Ding 3.001
+    2300108: Lenker Ding.001
+    2300110: Lenker Neu.001
+    2300112: Nadel.001
+    2300114: Nadel.002
+    2300116: Rueckfahrscheinwerfer_LOD0
+    2300118: Rueckfahrscheinwerfer_LOD1
+    2300120: Rueckfahrscheinwerfer_LOD2
+    2300122: Rueckleuchtenglas_LOD1
+    2300124: Rueckleuchtenglas_LOD2
+    2300126: Rueckleuchtenrueckwand_LOD0
+    2300128: Rueckleuchtenrueckwand_LOD1
+    2300130: Rueckleuchtenrueckwand_LOD2
+    2300132: Rueckleuchtenscheibe_LOD0
+    2300134: Rueckleuchtentgehause_LOD0
+    2300136: Rueckstrahler_LOD0
+    2300138: Rueckstrahler_LOD1
+    2300140: Rueckstrahler_LOD2
+    2300142: Scheiben_LOD0
+    2300144: Scheiben_LOD1
+    2300146: Scheiben_LOD2
+    2300148: Schlussleuchte_LOD0
+    2300150: Schlussleuchte_LOD1
+    2300152: Schlussleuchte_LOD2
+    2300154: Schlussleuchteneinfassung_LOD0
+    2300156: Schlussleuchtenglas_LOD0
+    2300158: Seitenspiegel_LOD0
+    2300160: Seitenspiegel_LOD1
+    2300162: Seitenspiegel_LOD2
+    2300164: Seitenspiegelblinkerglas_LOD0
+    2300166: Seitenspiegelgehhaeuse_LOD0
+    2300168: Seitenspiegelgehhaeuse_LOD1
+    2300170: Tacho neu.002
+    2300172: Tacho neu.003
+    2300174: Tacho neu.004
+    2300176: Tacho neu.005
+    2300178: Tacho Zahl 0.001
+    2300180: Tacho Zahl 100.001
+    2300182: Tacho Zahl 130.001
+    2300184: Tacho Zahl 160.001
+    2300186: Tacho Zahl 200.001
+    2300188: Tacho Zahl 30.001
+    2300190: Tacho Zahl 50.001
+    2300192: Tacho Zahl 80.001
+    2300194: Tagfahrlicht_LOD0
+    2300196: Tagfahrlicht_LOD1
+    2300198: Tagfahrlicht_LOD2
+    2300200: Tagfahrlichteinfassung_LOD0
+    2300202: Unterboden_LOD0
+    2300204: Unterboden_LOD1
+    2300206: Unterboden_LOD2
+    3300000: Blinker_links_LOD0
+    3300002: Blinker_links_LOD1
+    3300004: Blinker_links_LOD2
+    3300006: Blinker_rechts_LOD0
+    3300008: Blinker_rechts_LOD1
+    3300010: Blinker_rechts_LOD2
+    3300012: Bremsleuchte_LOD0
+    3300014: Bremsleuchte_LOD1
+    3300016: Bremsleuchte_LOD2
+    3300018: Bremsleuchte_Zentral_LOD0
+    3300020: Bremsleuchte_Zentral_LOD1
+    3300022: Bremsleuchte_Zentral_LOD2
+    3300024: Chromleiste_hinten_LOD0
+    3300026: Chromleiste_vorne_LOD0
+    3300028: Chromteile_LOD1
+    3300030: Chromteile_LOD2
+    3300032: Cube
+    3300034: DashboardAnzeige.001
+    3300036: DashboardAnzeige.002
+    3300038: DashboardAnzeige.003
+    3300040: DashboardAnzeige.004
+    3300042: Frontblinkereinfassung_LOD0
+    3300044: Frontscheinwerfergehaeuse_LOD0
+    3300046: Frontscheinwerferlicht_LOD0
+    3300048: Frontscheinwerferlicht_LOD1
+    3300050: Frontscheinwerferlicht_LOD2
+    3300052: Frontscheinwerferscheibe_LOD0
+    3300054: Gang 1.001
+    3300056: Gang 2.001
+    3300058: Gang 3.001
+    3300060: Gang 4.001
+    3300062: Gang 5.001
+    3300064: Gang R.001
+    3300066: Gangschaltung.001
+    3300068: Hupe.001
+    3300070: Iterior_LOD0
+    3300072: Iterior_LOD1
+    3300074: Iterior_LOD2
+    3300076: Karosserie_LOD0
+    3300078: Karosserie_LOD1
+    3300080: Karosserie_LOD2
+    3300082: Kennzeichen_hinten_LOD0
+    3300084: Kennzeichen_LOD1
+    3300086: Kennzeichen_LOD2
+    3300088: Kennzeichen_vorne_LOD0
+    3300090: Kuehlergrill_LOD0
+    3300092: Kuehlergrill_LOD1
+    3300094: Kuehlergrill_LOD2
+    3300096: Kuehlergrilleinfassung_LOD0
+    3300098: Kuehlergrillzierleisten_LOD0
+    3300100: Kuehlergrillzierleisten_LOD1
+    3300102: Kuehlergrillzierleisten_LOD2
+    3300104: Lenker Ding 2.001
+    3300106: Lenker Ding 3.001
+    3300108: Lenker Ding.001
+    3300110: Lenker Neu.001
+    3300112: Nadel.001
+    3300114: Nadel.002
+    3300116: Rueckfahrscheinwerfer_LOD0
+    3300118: Rueckfahrscheinwerfer_LOD1
+    3300120: Rueckfahrscheinwerfer_LOD2
+    3300122: Rueckleuchtenglas_LOD1
+    3300124: Rueckleuchtenglas_LOD2
+    3300126: Rueckleuchtenrueckwand_LOD0
+    3300128: Rueckleuchtenrueckwand_LOD1
+    3300130: Rueckleuchtenrueckwand_LOD2
+    3300132: Rueckleuchtenscheibe_LOD0
+    3300134: Rueckleuchtentgehause_LOD0
+    3300136: Rueckstrahler_LOD0
+    3300138: Rueckstrahler_LOD1
+    3300140: Rueckstrahler_LOD2
+    3300142: Scheiben_LOD0
+    3300144: Scheiben_LOD1
+    3300146: Scheiben_LOD2
+    3300148: Schlussleuchte_LOD0
+    3300150: Schlussleuchte_LOD1
+    3300152: Schlussleuchte_LOD2
+    3300154: Schlussleuchteneinfassung_LOD0
+    3300156: Schlussleuchtenglas_LOD0
+    3300158: Seitenspiegel_LOD0
+    3300160: Seitenspiegel_LOD1
+    3300162: Seitenspiegel_LOD2
+    3300164: Seitenspiegelblinkerglas_LOD0
+    3300166: Seitenspiegelgehhaeuse_LOD0
+    3300168: Seitenspiegelgehhaeuse_LOD1
+    3300170: Tacho neu.002
+    3300172: Tacho neu.003
+    3300174: Tacho neu.004
+    3300176: Tacho neu.005
+    3300178: Tacho Zahl 0.001
+    3300180: Tacho Zahl 100.001
+    3300182: Tacho Zahl 130.001
+    3300184: Tacho Zahl 160.001
+    3300186: Tacho Zahl 200.001
+    3300188: Tacho Zahl 30.001
+    3300190: Tacho Zahl 50.001
+    3300192: Tacho Zahl 80.001
+    3300194: Tagfahrlicht_LOD0
+    3300196: Tagfahrlicht_LOD1
+    3300198: Tagfahrlicht_LOD2
+    3300200: Tagfahrlichteinfassung_LOD0
+    3300202: Unterboden_LOD0
+    3300204: Unterboden_LOD1
+    3300206: Unterboden_LOD2
+    4300000: Blinker_links_LOD2
+    4300002: Blinker_links_LOD1
+    4300004: Blinker_rechts_LOD0
+    4300006: Unterboden_LOD2
+    4300008: Unterboden_LOD1
+    4300010: Unterboden_LOD0
+    4300012: Rueckleuchtenrueckwand_LOD2
+    4300014: Bremsleuchte_LOD2
+    4300016: Rueckleuchtenglas_LOD2
+    4300018: Tagfahrlicht_LOD2
+    4300020: Schlussleuchte_LOD2
+    4300022: Bremsleuchte_Zentral_LOD2
+    4300024: Scheiben_LOD2
+    4300026: Karosserie_LOD2
+    4300028: Chromteile_LOD2
+    4300030: Rueckfahrscheinwerfer_LOD2
+    4300032: Seitenspiegel_LOD2
+    4300034: Iterior_LOD2
+    4300036: Frontscheinwerferlicht_LOD2
+    4300038: Kennzeichen_LOD2
+    4300040: Blinker_rechts_LOD2
+    4300042: Kuehlergrillzierleisten_LOD2
+    4300044: Kuehlergrill_LOD2
+    4300046: Rueckstrahler_LOD2
+    4300048: Rueckstrahler_LOD1
+    4300050: Kuehlergrill_LOD1
+    4300052: Kuehlergrillzierleisten_LOD1
+    4300054: Seitenspiegelgehhaeuse_LOD1
+    4300056: Blinker_rechts_LOD1
+    4300058: Kennzeichen_LOD1
+    4300060: Frontscheinwerferlicht_LOD1
+    4300062: Iterior_LOD1
+    4300064: Seitenspiegel_LOD1
+    4300066: Rueckfahrscheinwerfer_LOD1
+    4300068: Chromteile_LOD1
+    4300070: Scheiben_LOD1
+    4300072: Bremsleuchte_Zentral_LOD1
+    4300074: Schlussleuchte_LOD1
+    4300076: Tagfahrlicht_LOD1
+    4300078: Karosserie_LOD1
+    4300080: Rueckleuchtenglas_LOD1
+    4300082: Bremsleuchte_LOD1
+    4300084: Rueckleuchtenrueckwand_LOD1
+    4300086: Rueckleuchtenrueckwand_LOD0
+    4300088: Bremsleuchte_LOD0
+    4300090: Schlussleuchtenglas_LOD0
+    4300092: Kuehlergrilleinfassung_LOD0
+    4300094: Tagfahrlichteinfassung_LOD0
+    4300096: Tagfahrlicht_LOD0
+    4300098: Schlussleuchte_LOD0
+    4300100: Bremsleuchte_Zentral_LOD0
+    4300102: Frontscheinwerferscheibe_LOD0
+    4300104: Chromleiste_vorne_LOD0
+    4300106: Kennzeichen_hinten_LOD0
+    4300108: Rueckfahrscheinwerfer_LOD0
+    4300110: Schlussleuchteneinfassung_LOD0
+    4300112: Seitenspiegelblinkerglas_LOD0
+    4300114: Seitenspiegel_LOD0
+    4300116: Frontscheinwerfergehaeuse_LOD0
+    4300118: Iterior_LOD0
+    4300120: Frontscheinwerferlicht_LOD0
+    4300122: Kennzeichen_vorne_LOD0
+    4300124: Frontblinkereinfassung_LOD0
+    4300126: Blinker_links_LOD0
+    4300128: Seitenspiegelgehhaeuse_LOD0
+    4300130: Kuehlergrillzierleisten_LOD0
+    4300132: Kuehlergrill_LOD0
+    4300134: Rueckleuchtentgehause_LOD0
+    4300136: Chromleiste_hinten_LOD0
+    4300138: Rueckstrahler_LOD0
+    4300140: Rueckleuchtenscheibe_LOD0
+    4300142: Scheiben_LOD0
+    4300144: Karosserie_LOD0
+    4300146: Cube
+    4300148: DashboardAnzeige.001
+    4300150: DashboardAnzeige.002
+    4300152: DashboardAnzeige.003
+    4300154: DashboardAnzeige.004
+    4300156: Gang 1.001
+    4300158: Gang 2.001
+    4300160: Gang 3.001
+    4300162: Gang 4.001
+    4300164: Gang 5.001
+    4300166: Gang R.001
+    4300168: Gangschaltung.001
+    4300170: Hupe.001
+    4300172: Lenker Ding 2.001
+    4300174: Lenker Ding 3.001
+    4300176: Lenker Ding.001
+    4300178: Lenker Neu.001
+    4300180: Nadel.001
+    4300182: Nadel.002
+    4300184: Tacho neu.002
+    4300186: Tacho neu.003
+    4300188: Tacho neu.004
+    4300190: Tacho neu.005
+    4300192: Tacho Zahl 0.001
+    4300194: Tacho Zahl 100.001
+    4300196: Tacho Zahl 130.001
+    4300198: Tacho Zahl 160.001
+    4300200: Tacho Zahl 200.001
+    4300202: Tacho Zahl 30.001
+    4300204: Tacho Zahl 50.001
+    4300206: Tacho Zahl 80.001
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blinker
+    second: {fileID: 2100000, guid: a35483c0dffb9dd40916d41e156129a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrom
+    second: {fileID: 2100000, guid: 3563eca34073cb149a6c81b2318c48e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas
+    second: {fileID: 2100000, guid: 3f1bf11ddf96a6f49b88fe3329e1ee63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas_rot
+    second: {fileID: 2100000, guid: 4c66aeea6d5bb7045b5cd81e5f61d847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunststoff
+    second: {fileID: 2100000, guid: 52789caaec5ec704aa3f78490f50cfda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunststoff_Rot
+    second: {fileID: 2100000, guid: 1e9a78e8d5101be478600a7144e72af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lack
+    second: {fileID: 2100000, guid: 1bd64c4cbac1df1428c2862d386c179c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Licht
+    second: {fileID: 2100000, guid: 65a2131bbc227c04386b34e079692e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: 185499fae1dce8544b86fa29009f8b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: 727f44710053eb44f90be5fb446c737c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: dd3af197fe6963d4591244f97974586b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: e757ffdd33bbfea4dab5a84895cf9015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: e902b84c4161da94fbda95f90cc5493a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: a9dd57a56a8b92c41892a9b5c342ea28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: b7dcc45f42aa41642ad37df9fd92a57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: 4d36339435a2652409f6b3bedcd1851d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: d662c8089432b6a4d8787514b26a74e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: ab00cfd4eabf4b7479d453c243f0bdb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: edda90863b1c2fc459b6a2fb12933474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 008dc33240efa1240bbb8172ed1554e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 3ed10d75054ecce42997a7bf0669196c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 56cd35ed730e4504a84fa0e98e788260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: 7851816e8fe98c54497483a2cfc3078c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: 83acc992167ec6e44a6d765d49f9a379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5c9611c72c303fb40a256b49fdd72c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflecktor
+    second: {fileID: 2100000, guid: e91ecf4ccb5c08f45a97f7874cec6e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruecklicht
+    second: {fileID: 2100000, guid: c8f3fec808dcc064c9811253e7079f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stoff
+    second: {fileID: 2100000, guid: 040c6355d2180a24f96acb315ac2afb1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

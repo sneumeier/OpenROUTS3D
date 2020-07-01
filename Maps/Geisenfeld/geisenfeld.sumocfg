@@ -1,0 +1,6 @@
+<configuration>
+    <input>
+        <net-file value="geisenfeld.net.xml"/>
+        <additional-files value="geisenfeld.poly.xml"/>
+    </input>
+</configuration>

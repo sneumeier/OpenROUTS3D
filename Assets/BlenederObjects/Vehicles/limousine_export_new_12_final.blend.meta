@@ -1,0 +1,1035 @@
+fileFormatVersion: 2
+guid: aab9d626f9d9bca419cc8397540818ad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blinker_links_LOD0
+    100002: Blinker_links_LOD1
+    100004: Blinker_links_LOD2
+    100006: Blinker_rechts_LOD0
+    100008: Blinker_rechts_LOD1
+    100010: Blinker_rechts_LOD2
+    100012: Bremsleuchte_LOD0
+    100014: Bremsleuchte_LOD1
+    100016: Bremsleuchte_LOD2
+    100018: Bremsleuchte_Zentral_LOD0
+    100020: Bremsleuchte_Zentral_LOD1
+    100022: Bremsleuchte_Zentral_LOD2
+    100024: Chromleiste_hinten_LOD0
+    100026: Chromleiste_vorne_LOD0
+    100028: Chromteile_LOD1
+    100030: Chromteile_LOD2
+    100032: Cockpit
+    100034: DashboardAnzeigeLinks
+    100036: DashboardAnzeigeRechts
+    100038: Frontblinkereinfassung_LOD0
+    100040: Frontscheinwerfergehaeuse_LOD0
+    100042: Frontscheinwerferlicht_LOD0
+    100044: Frontscheinwerferlicht_LOD1
+    100046: Frontscheinwerferlicht_LOD2
+    100048: Frontscheinwerferscheibe_LOD0
+    100050: Gang_Nummern_001
+    100052: Gangschaltung_001
+    100054: Gangschaltung_inside
+    100056: Iterior_LOD0
+    100058: Iterior_LOD1
+    100060: Iterior_LOD2
+    100062: Karosserie_LOD0
+    100064: Karosserie_LOD1
+    100066: Karosserie_LOD2
+    100068: Kennzeichen_hinten_LOD0
+    100070: Kennzeichen_LOD1
+    100072: Kennzeichen_LOD2
+    100074: Kennzeichen_vorne_LOD0
+    100076: Kuehlergrill_LOD0
+    100078: Kuehlergrill_LOD1
+    100080: Kuehlergrill_LOD2
+    100082: Kuehlergrilleinfassung_LOD0
+    100084: Kuehlergrillzierleisten_LOD0
+    100086: Kuehlergrillzierleisten_LOD1
+    100088: Kuehlergrillzierleisten_LOD2
+    100090: l_ftung
+    100092: l_ftung_001
+    100094: Lenker_Ding_2_001
+    100096: Lenker_Ding_3_001
+    100098: //RootNode
+    100100: Nadel_000
+    100102: Nadel_001
+    100104: Rueckfahrscheinwerfer_LOD0
+    100106: Rueckfahrscheinwerfer_LOD1
+    100108: Rueckfahrscheinwerfer_LOD2
+    100110: Rueckleuchtenglas_LOD1
+    100112: Rueckleuchtenglas_LOD2
+    100114: Rueckleuchtenrueckwand_LOD0
+    100116: Rueckleuchtenrueckwand_LOD1
+    100118: Rueckleuchtenrueckwand_LOD2
+    100120: Rueckleuchtenscheibe_LOD0
+    100122: Rueckleuchtentgehause_LOD0
+    100124: Rueckstrahler_LOD0
+    100126: Rueckstrahler_LOD1
+    100128: Rueckstrahler_LOD2
+    100130: Scheiben_LOD0
+    100132: Scheiben_LOD1
+    100134: Scheiben_LOD2
+    100136: Schlussleuchte_LOD0
+    100138: Schlussleuchte_LOD1
+    100140: Schlussleuchte_LOD2
+    100142: Schlussleuchteneinfassung_LOD0
+    100144: Schlussleuchtenglas_LOD0
+    100146: Seitenspiegel_LOD0
+    100148: Seitenspiegel_LOD1
+    100150: Seitenspiegel_LOD2
+    100152: Seitenspiegelblinkerglas_LOD0
+    100154: Seitenspiegelgehhaeuse_LOD0
+    100156: Seitenspiegelgehhaeuse_LOD1
+    100158: Sitz_Beifahrer
+    100160: Sitz_Fahrer
+    100162: Sitzhinten
+    100164: Tacho
+    100166: Tacho_drezahl
+    100168: Tacho_und_Drezahl_Zahlen
+    100170: Tagfahrlicht_LOD0
+    100172: Tagfahrlicht_LOD1
+    100174: Tagfahrlicht_LOD2
+    100176: Tagfahrlichteinfassung_LOD0
+    100178: Unterboden_LOD0
+    100180: Unterboden_LOD1
+    100182: Unterboden_LOD2
+    400000: Blinker_links_LOD0
+    400002: Blinker_links_LOD1
+    400004: Blinker_links_LOD2
+    400006: Blinker_rechts_LOD0
+    400008: Blinker_rechts_LOD1
+    400010: Blinker_rechts_LOD2
+    400012: Bremsleuchte_LOD0
+    400014: Bremsleuchte_LOD1
+    400016: Bremsleuchte_LOD2
+    400018: Bremsleuchte_Zentral_LOD0
+    400020: Bremsleuchte_Zentral_LOD1
+    400022: Bremsleuchte_Zentral_LOD2
+    400024: Chromleiste_hinten_LOD0
+    400026: Chromleiste_vorne_LOD0
+    400028: Chromteile_LOD1
+    400030: Chromteile_LOD2
+    400032: Cockpit
+    400034: DashboardAnzeigeLinks
+    400036: DashboardAnzeigeRechts
+    400038: Frontblinkereinfassung_LOD0
+    400040: Frontscheinwerfergehaeuse_LOD0
+    400042: Frontscheinwerferlicht_LOD0
+    400044: Frontscheinwerferlicht_LOD1
+    400046: Frontscheinwerferlicht_LOD2
+    400048: Frontscheinwerferscheibe_LOD0
+    400050: Gang_Nummern_001
+    400052: Gangschaltung_001
+    400054: Gangschaltung_inside
+    400056: Iterior_LOD0
+    400058: Iterior_LOD1
+    400060: Iterior_LOD2
+    400062: Karosserie_LOD0
+    400064: Karosserie_LOD1
+    400066: Karosserie_LOD2
+    400068: Kennzeichen_hinten_LOD0
+    400070: Kennzeichen_LOD1
+    400072: Kennzeichen_LOD2
+    400074: Kennzeichen_vorne_LOD0
+    400076: Kuehlergrill_LOD0
+    400078: Kuehlergrill_LOD1
+    400080: Kuehlergrill_LOD2
+    400082: Kuehlergrilleinfassung_LOD0
+    400084: Kuehlergrillzierleisten_LOD0
+    400086: Kuehlergrillzierleisten_LOD1
+    400088: Kuehlergrillzierleisten_LOD2
+    400090: l_ftung
+    400092: l_ftung_001
+    400094: Lenker_Ding_2_001
+    400096: Lenker_Ding_3_001
+    400098: //RootNode
+    400100: Nadel_000
+    400102: Nadel_001
+    400104: Rueckfahrscheinwerfer_LOD0
+    400106: Rueckfahrscheinwerfer_LOD1
+    400108: Rueckfahrscheinwerfer_LOD2
+    400110: Rueckleuchtenglas_LOD1
+    400112: Rueckleuchtenglas_LOD2
+    400114: Rueckleuchtenrueckwand_LOD0
+    400116: Rueckleuchtenrueckwand_LOD1
+    400118: Rueckleuchtenrueckwand_LOD2
+    400120: Rueckleuchtenscheibe_LOD0
+    400122: Rueckleuchtentgehause_LOD0
+    400124: Rueckstrahler_LOD0
+    400126: Rueckstrahler_LOD1
+    400128: Rueckstrahler_LOD2
+    400130: Scheiben_LOD0
+    400132: Scheiben_LOD1
+    400134: Scheiben_LOD2
+    400136: Schlussleuchte_LOD0
+    400138: Schlussleuchte_LOD1
+    400140: Schlussleuchte_LOD2
+    400142: Schlussleuchteneinfassung_LOD0
+    400144: Schlussleuchtenglas_LOD0
+    400146: Seitenspiegel_LOD0
+    400148: Seitenspiegel_LOD1
+    400150: Seitenspiegel_LOD2
+    400152: Seitenspiegelblinkerglas_LOD0
+    400154: Seitenspiegelgehhaeuse_LOD0
+    400156: Seitenspiegelgehhaeuse_LOD1
+    400158: Sitz_Beifahrer
+    400160: Sitz_Fahrer
+    400162: Sitzhinten
+    400164: Tacho
+    400166: Tacho_drezahl
+    400168: Tacho_und_Drezahl_Zahlen
+    400170: Tagfahrlicht_LOD0
+    400172: Tagfahrlicht_LOD1
+    400174: Tagfahrlicht_LOD2
+    400176: Tagfahrlichteinfassung_LOD0
+    400178: Unterboden_LOD0
+    400180: Unterboden_LOD1
+    400182: Unterboden_LOD2
+    2300000: Blinker_links_LOD0
+    2300002: Blinker_links_LOD1
+    2300004: Blinker_links_LOD2
+    2300006: Blinker_rechts_LOD0
+    2300008: Blinker_rechts_LOD1
+    2300010: Blinker_rechts_LOD2
+    2300012: Bremsleuchte_LOD0
+    2300014: Bremsleuchte_LOD1
+    2300016: Bremsleuchte_LOD2
+    2300018: Bremsleuchte_Zentral_LOD0
+    2300020: Bremsleuchte_Zentral_LOD1
+    2300022: Bremsleuchte_Zentral_LOD2
+    2300024: Chromleiste_hinten_LOD0
+    2300026: Chromleiste_vorne_LOD0
+    2300028: Chromteile_LOD1
+    2300030: Chromteile_LOD2
+    2300032: Cockpit
+    2300034: DashboardAnzeigeLinks
+    2300036: DashboardAnzeigeRechts
+    2300038: Frontblinkereinfassung_LOD0
+    2300040: Frontscheinwerfergehaeuse_LOD0
+    2300042: Frontscheinwerferlicht_LOD0
+    2300044: Frontscheinwerferlicht_LOD1
+    2300046: Frontscheinwerferlicht_LOD2
+    2300048: Frontscheinwerferscheibe_LOD0
+    2300050: Gang_Nummern_001
+    2300052: Gangschaltung_001
+    2300054: Gangschaltung_inside
+    2300056: Iterior_LOD0
+    2300058: Iterior_LOD1
+    2300060: Iterior_LOD2
+    2300062: Karosserie_LOD0
+    2300064: Karosserie_LOD1
+    2300066: Karosserie_LOD2
+    2300068: Kennzeichen_hinten_LOD0
+    2300070: Kennzeichen_LOD1
+    2300072: Kennzeichen_LOD2
+    2300074: Kennzeichen_vorne_LOD0
+    2300076: Kuehlergrill_LOD0
+    2300078: Kuehlergrill_LOD1
+    2300080: Kuehlergrill_LOD2
+    2300082: Kuehlergrilleinfassung_LOD0
+    2300084: Kuehlergrillzierleisten_LOD0
+    2300086: Kuehlergrillzierleisten_LOD1
+    2300088: Kuehlergrillzierleisten_LOD2
+    2300090: l_ftung
+    2300092: l_ftung_001
+    2300094: Lenker_Ding_2_001
+    2300096: Lenker_Ding_3_001
+    2300098: Nadel_000
+    2300100: Nadel_001
+    2300102: Rueckfahrscheinwerfer_LOD0
+    2300104: Rueckfahrscheinwerfer_LOD1
+    2300106: Rueckfahrscheinwerfer_LOD2
+    2300108: Rueckleuchtenglas_LOD1
+    2300110: Rueckleuchtenglas_LOD2
+    2300112: Rueckleuchtenrueckwand_LOD0
+    2300114: Rueckleuchtenrueckwand_LOD1
+    2300116: Rueckleuchtenrueckwand_LOD2
+    2300118: Rueckleuchtenscheibe_LOD0
+    2300120: Rueckleuchtentgehause_LOD0
+    2300122: Rueckstrahler_LOD0
+    2300124: Rueckstrahler_LOD1
+    2300126: Rueckstrahler_LOD2
+    2300128: Scheiben_LOD0
+    2300130: Scheiben_LOD1
+    2300132: Scheiben_LOD2
+    2300134: Schlussleuchte_LOD0
+    2300136: Schlussleuchte_LOD1
+    2300138: Schlussleuchte_LOD2
+    2300140: Schlussleuchteneinfassung_LOD0
+    2300142: Schlussleuchtenglas_LOD0
+    2300144: Seitenspiegel_LOD0
+    2300146: Seitenspiegel_LOD1
+    2300148: Seitenspiegel_LOD2
+    2300150: Seitenspiegelblinkerglas_LOD0
+    2300152: Seitenspiegelgehhaeuse_LOD0
+    2300154: Seitenspiegelgehhaeuse_LOD1
+    2300156: Sitz_Beifahrer
+    2300158: Sitz_Fahrer
+    2300160: Sitzhinten
+    2300162: Tacho
+    2300164: Tacho_drezahl
+    2300166: Tacho_und_Drezahl_Zahlen
+    2300168: Tagfahrlicht_LOD0
+    2300170: Tagfahrlicht_LOD1
+    2300172: Tagfahrlicht_LOD2
+    2300174: Tagfahrlichteinfassung_LOD0
+    2300176: Unterboden_LOD0
+    2300178: Unterboden_LOD1
+    2300180: Unterboden_LOD2
+    3300000: Blinker_links_LOD0
+    3300002: Blinker_links_LOD1
+    3300004: Blinker_links_LOD2
+    3300006: Blinker_rechts_LOD0
+    3300008: Blinker_rechts_LOD1
+    3300010: Blinker_rechts_LOD2
+    3300012: Bremsleuchte_LOD0
+    3300014: Bremsleuchte_LOD1
+    3300016: Bremsleuchte_LOD2
+    3300018: Bremsleuchte_Zentral_LOD0
+    3300020: Bremsleuchte_Zentral_LOD1
+    3300022: Bremsleuchte_Zentral_LOD2
+    3300024: Chromleiste_hinten_LOD0
+    3300026: Chromleiste_vorne_LOD0
+    3300028: Chromteile_LOD1
+    3300030: Chromteile_LOD2
+    3300032: Cockpit
+    3300034: DashboardAnzeigeLinks
+    3300036: DashboardAnzeigeRechts
+    3300038: Frontblinkereinfassung_LOD0
+    3300040: Frontscheinwerfergehaeuse_LOD0
+    3300042: Frontscheinwerferlicht_LOD0
+    3300044: Frontscheinwerferlicht_LOD1
+    3300046: Frontscheinwerferlicht_LOD2
+    3300048: Frontscheinwerferscheibe_LOD0
+    3300050: Gang_Nummern_001
+    3300052: Gangschaltung_001
+    3300054: Gangschaltung_inside
+    3300056: Iterior_LOD0
+    3300058: Iterior_LOD1
+    3300060: Iterior_LOD2
+    3300062: Karosserie_LOD0
+    3300064: Karosserie_LOD1
+    3300066: Karosserie_LOD2
+    3300068: Kennzeichen_hinten_LOD0
+    3300070: Kennzeichen_LOD1
+    3300072: Kennzeichen_LOD2
+    3300074: Kennzeichen_vorne_LOD0
+    3300076: Kuehlergrill_LOD0
+    3300078: Kuehlergrill_LOD1
+    3300080: Kuehlergrill_LOD2
+    3300082: Kuehlergrilleinfassung_LOD0
+    3300084: Kuehlergrillzierleisten_LOD0
+    3300086: Kuehlergrillzierleisten_LOD1
+    3300088: Kuehlergrillzierleisten_LOD2
+    3300090: l_ftung
+    3300092: l_ftung_001
+    3300094: Lenker_Ding_2_001
+    3300096: Lenker_Ding_3_001
+    3300098: Nadel_000
+    3300100: Nadel_001
+    3300102: Rueckfahrscheinwerfer_LOD0
+    3300104: Rueckfahrscheinwerfer_LOD1
+    3300106: Rueckfahrscheinwerfer_LOD2
+    3300108: Rueckleuchtenglas_LOD1
+    3300110: Rueckleuchtenglas_LOD2
+    3300112: Rueckleuchtenrueckwand_LOD0
+    3300114: Rueckleuchtenrueckwand_LOD1
+    3300116: Rueckleuchtenrueckwand_LOD2
+    3300118: Rueckleuchtenscheibe_LOD0
+    3300120: Rueckleuchtentgehause_LOD0
+    3300122: Rueckstrahler_LOD0
+    3300124: Rueckstrahler_LOD1
+    3300126: Rueckstrahler_LOD2
+    3300128: Scheiben_LOD0
+    3300130: Scheiben_LOD1
+    3300132: Scheiben_LOD2
+    3300134: Schlussleuchte_LOD0
+    3300136: Schlussleuchte_LOD1
+    3300138: Schlussleuchte_LOD2
+    3300140: Schlussleuchteneinfassung_LOD0
+    3300142: Schlussleuchtenglas_LOD0
+    3300144: Seitenspiegel_LOD0
+    3300146: Seitenspiegel_LOD1
+    3300148: Seitenspiegel_LOD2
+    3300150: Seitenspiegelblinkerglas_LOD0
+    3300152: Seitenspiegelgehhaeuse_LOD0
+    3300154: Seitenspiegelgehhaeuse_LOD1
+    3300156: Sitz_Beifahrer
+    3300158: Sitz_Fahrer
+    3300160: Sitzhinten
+    3300162: Tacho
+    3300164: Tacho_drezahl
+    3300166: Tacho_und_Drezahl_Zahlen
+    3300168: Tagfahrlicht_LOD0
+    3300170: Tagfahrlicht_LOD1
+    3300172: Tagfahrlicht_LOD2
+    3300174: Tagfahrlichteinfassung_LOD0
+    3300176: Unterboden_LOD0
+    3300178: Unterboden_LOD1
+    3300180: Unterboden_LOD2
+    4300000: l_ftung
+    4300002: Gangschaltung_inside
+    4300004: Blinker_links_LOD2
+    4300006: Blinker_links_LOD1
+    4300008: Blinker_rechts_LOD0
+    4300010: Unterboden_LOD2
+    4300012: Unterboden_LOD1
+    4300014: Unterboden_LOD0
+    4300016: Rueckleuchtenrueckwand_LOD2
+    4300018: Bremsleuchte_LOD2
+    4300020: Rueckleuchtenglas_LOD2
+    4300022: Tagfahrlicht_LOD2
+    4300024: Schlussleuchte_LOD2
+    4300026: Bremsleuchte_Zentral_LOD2
+    4300028: Scheiben_LOD2
+    4300030: Karosserie_LOD2
+    4300032: Chromteile_LOD2
+    4300034: Rueckfahrscheinwerfer_LOD2
+    4300036: Seitenspiegel_LOD2
+    4300038: Iterior_LOD2
+    4300040: Frontscheinwerferlicht_LOD2
+    4300042: Kennzeichen_LOD2
+    4300044: Blinker_rechts_LOD2
+    4300046: Kuehlergrillzierleisten_LOD2
+    4300048: Kuehlergrill_LOD2
+    4300050: Rueckstrahler_LOD2
+    4300052: Rueckstrahler_LOD1
+    4300054: Kuehlergrill_LOD1
+    4300056: Kuehlergrillzierleisten_LOD1
+    4300058: Seitenspiegelgehhaeuse_LOD1
+    4300060: Blinker_rechts_LOD1
+    4300062: Kennzeichen_LOD1
+    4300064: Frontscheinwerferlicht_LOD1
+    4300066: Iterior_LOD1
+    4300068: Seitenspiegel_LOD1
+    4300070: Rueckfahrscheinwerfer_LOD1
+    4300072: Chromteile_LOD1
+    4300074: Scheiben_LOD1
+    4300076: Bremsleuchte_Zentral_LOD1
+    4300078: Schlussleuchte_LOD1
+    4300080: Tagfahrlicht_LOD1
+    4300082: Karosserie_LOD1
+    4300084: Rueckleuchtenglas_LOD1
+    4300086: Bremsleuchte_LOD1
+    4300088: Rueckleuchtenrueckwand_LOD1
+    4300090: Rueckleuchtenrueckwand_LOD0
+    4300092: Bremsleuchte_LOD0
+    4300094: Schlussleuchtenglas_LOD0
+    4300096: Kuehlergrilleinfassung_LOD0
+    4300098: Tagfahrlichteinfassung_LOD0
+    4300100: Tagfahrlicht_LOD0
+    4300102: Schlussleuchte_LOD0
+    4300104: Bremsleuchte_Zentral_LOD0
+    4300106: Frontscheinwerferscheibe_LOD0
+    4300108: Chromleiste_vorne_LOD0
+    4300110: Kennzeichen_hinten_LOD0
+    4300112: Rueckfahrscheinwerfer_LOD0
+    4300114: Schlussleuchteneinfassung_LOD0
+    4300116: Seitenspiegelblinkerglas_LOD0
+    4300118: Seitenspiegel_LOD0
+    4300120: Frontscheinwerfergehaeuse_LOD0
+    4300122: Iterior_LOD0
+    4300124: Frontscheinwerferlicht_LOD0
+    4300126: Kennzeichen_vorne_LOD0
+    4300128: Frontblinkereinfassung_LOD0
+    4300130: Blinker_links_LOD0
+    4300132: Seitenspiegelgehhaeuse_LOD0
+    4300134: Kuehlergrillzierleisten_LOD0
+    4300136: Kuehlergrill_LOD0
+    4300138: Rueckleuchtentgehause_LOD0
+    4300140: Chromleiste_hinten_LOD0
+    4300142: Rueckstrahler_LOD0
+    4300144: Rueckleuchtenscheibe_LOD0
+    4300146: Scheiben_LOD0
+    4300148: Karosserie_LOD0
+    4300150: Cockpit
+    4300152: DashboardAnzeigeLinks
+    4300154: DashboardAnzeigeRechts
+    4300156: Gang_Nummern_001
+    4300158: Gangschaltung_001
+    4300160: Lenker_Ding_2_001
+    4300162: Lenker_Ding_3_001
+    4300164: Nadel_001
+    4300166: Tacho
+    4300168: l_ftung_001
+    4300170: Tacho_und_Drezahl_Zahlen
+    4300172: Nadel_000
+    4300174: Tacho_drezahl
+    4300176: Sitz_Beifahrer
+    4300178: Sitz_Fahrer
+    4300180: Sitzhinten
+    7400000: Default Take
+    9500000: //RootNode
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blinker
+    second: {fileID: 2100000, guid: 828a6b69dcf1b4848a921a16e5fa62b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrom
+    second: {fileID: 2100000, guid: fb3306a4b641c794e87ed2eeac54d110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas
+    second: {fileID: 2100000, guid: a0b5d1cfe630c4442aba197a28233cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas_rot
+    second: {fileID: 2100000, guid: 3d75aedce201ef24aa3bbb31cd058e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunststoff
+    second: {fileID: 2100000, guid: 52f5efd6eaa7d704abe8ee216d2396ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunststoff_001
+    second: {fileID: 2100000, guid: 2d1051c9be8c2e14c845d58e18778639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunststoff_Rot
+    second: {fileID: 2100000, guid: b9eeced7d8e00444eb67ddc63ad60de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lack
+    second: {fileID: 2100000, guid: 64127a1cc2a857146b73ad6118341e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Licht
+    second: {fileID: 2100000, guid: c961a38a6ad7a7a44b048e3d407580b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: f529225c2882d4449ba85ba3700c5ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: de69ef8273eefe9498a525a4c84db928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: b58ca1e3d077af141ae3507791a8c244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 787d2d91cb2d6784fa88234da39207e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 9a34b6b5b74bf974eafa917947d986cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: b352cf27e066fdc40abf269a594fd07c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: dfc55d4cf4634e041b54102c0e354115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 0b2104812f7c6da4697ab5f071b1ced5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: a77ea2f95e611864b8408fddb59ca858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: 07c43afa889a58c48a93aebd26dd5b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: 5efcf00d13df5f44e883c840408ebaae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: 2eae7f0eab18efe40a8e70355d9343d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: d802fb3d18694a64bbdab11735b4faed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_020
+    second: {fileID: 2100000, guid: def7cd5eecbd58f419c46744c35b9463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_021
+    second: {fileID: 2100000, guid: 1311a2453ad56614d9ffe7a25a575995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_022
+    second: {fileID: 2100000, guid: bb56ed9ab9d83494e957391123d96da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_023
+    second: {fileID: 2100000, guid: 1f882da02215bdc449e4450f26207d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_024
+    second: {fileID: 2100000, guid: e700ec0af5020f448bb1856c84e3057c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_025
+    second: {fileID: 2100000, guid: af73e222008433f4a9eac78a6a948cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_026
+    second: {fileID: 2100000, guid: 6f2d9686c54db2244b57eaf7d187a12f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_027
+    second: {fileID: 2100000, guid: e5fa4fff3bcf3ad4ca974a09338ca786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_029
+    second: {fileID: 2100000, guid: 578006685ff751a4085bc1e170b5c59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_030
+    second: {fileID: 2100000, guid: 3e3a42085a6eca84dbec47aafb613299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_031
+    second: {fileID: 2100000, guid: 0c1ee491349e45f4bab621c7bc0d20cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_032
+    second: {fileID: 2100000, guid: 4706da9035138b744af95f8a8809ebb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_033
+    second: {fileID: 2100000, guid: b5c4bd03fc2e59242a0f4a048f246c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_034
+    second: {fileID: 2100000, guid: 35aee54c44bc94f4e9d0c59771499b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_036
+    second: {fileID: 2100000, guid: 1c01767e88e582247a15bbcc5ab89e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_037
+    second: {fileID: 2100000, guid: 30042b480bf34324dbd2b39131922fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_038
+    second: {fileID: 2100000, guid: 9fb32168532af9b469b24dee7b73a13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_039
+    second: {fileID: 2100000, guid: 2942b2c66a9ad3645a022b0234bffdab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_040
+    second: {fileID: 2100000, guid: 8d589d89ea6a7b04daa07970271b5873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_041
+    second: {fileID: 2100000, guid: f6b073e056866d14999b5f4e77f9ee56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_042
+    second: {fileID: 2100000, guid: 6ef93384441262e43b777869be73b1fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_043
+    second: {fileID: 2100000, guid: a1b7c5cecf1f6fc409e2cce9e141834d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_044
+    second: {fileID: 2100000, guid: ca9b1d29fc82e8f469aa494da95dcc4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_045
+    second: {fileID: 2100000, guid: 654aa5b595f8fab40b9f41044e164224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_046
+    second: {fileID: 2100000, guid: d27cbba3a64c3d8429c66e92cce1777e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_047
+    second: {fileID: 2100000, guid: 2066910eaf3d6dd43bfbfc4422034db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_048
+    second: {fileID: 2100000, guid: 09461b042f8bc3947853336550de5e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_049
+    second: {fileID: 2100000, guid: 58f78493cb8701a4c8b21ec2d29cd0c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_050
+    second: {fileID: 2100000, guid: a4f353cd227bd1842986cda1f4f30715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_051
+    second: {fileID: 2100000, guid: bf9117aebcfe65a47af7db61935e8d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_052
+    second: {fileID: 2100000, guid: 0d0db9583a8b59740a4e561fc8425069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_053
+    second: {fileID: 2100000, guid: 29ae9e7032b9af6429a1f1e0ea8742ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_054
+    second: {fileID: 2100000, guid: 490fb06f0991c61458a7e5c9dde4cd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_056
+    second: {fileID: 2100000, guid: db43345e2b2b35b4995a618ecf45b511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_057
+    second: {fileID: 2100000, guid: c8b7840fd33f12949a6d3d01b6f273ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_058
+    second: {fileID: 2100000, guid: 392847bf73b1bca4c815bde01f4ed451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_060
+    second: {fileID: 2100000, guid: 7165b2269b04ef74e8d85323d240ed27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_061
+    second: {fileID: 2100000, guid: 6de9f450e69a0ac469efc6607861137e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_063
+    second: {fileID: 2100000, guid: bd7b7f045088a4a469712a138e8fcd08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_064
+    second: {fileID: 2100000, guid: 70bb5b389b772b048a2499862ec0451f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_065
+    second: {fileID: 2100000, guid: 991fd0154bf12684c9e2e5d37fe1262a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_066
+    second: {fileID: 2100000, guid: 1c7f44f67ffd3484d9fde25e33b1ce93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_067
+    second: {fileID: 2100000, guid: 47bf52f810588974d82faa9be63e84f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_069
+    second: {fileID: 2100000, guid: 9881bb12c646f4c4d932b868def0f05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_070
+    second: {fileID: 2100000, guid: d80510e718f0ad1439d572736ce320b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_071
+    second: {fileID: 2100000, guid: ca0cefaa42667f04a90a1400973208cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_072
+    second: {fileID: 2100000, guid: 64a5447464aa46049bc179b831244472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_073
+    second: {fileID: 2100000, guid: 905e685afeb06e34182739a3a5fd039d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_074
+    second: {fileID: 2100000, guid: 698ae9c04f544fa4994a38813a323106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_075
+    second: {fileID: 2100000, guid: be9e141e0ae832243b19fad51b03d9e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_076
+    second: {fileID: 2100000, guid: 8fe441077303e3c4a8894faecde4c869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_077
+    second: {fileID: 2100000, guid: cb421a90249b1fa42b8895718cc9554a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_078
+    second: {fileID: 2100000, guid: bb6ce2c000d798445862203fabd4d412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_079
+    second: {fileID: 2100000, guid: cdb3efa62b1dff246bbe9798f53ffab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_080
+    second: {fileID: 2100000, guid: c8d7162d7fbd3de4182d64b3f947ee32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_081
+    second: {fileID: 2100000, guid: 424b45412855e1f4abca3a4efb61aa53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_082
+    second: {fileID: 2100000, guid: 0386511d9ea2d014fb460866629762b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_083
+    second: {fileID: 2100000, guid: 3e506948ce5172b4cb4eea08113c2ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_084
+    second: {fileID: 2100000, guid: f8cffb1cdcd0fb449898adc29687aa1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_085
+    second: {fileID: 2100000, guid: 26a6b01014707e64e8938b48b1345749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_086
+    second: {fileID: 2100000, guid: 9d42766851136fe4dadf584d6e61936e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_087
+    second: {fileID: 2100000, guid: 900428859cf22bc4986441f5e74be7b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_088
+    second: {fileID: 2100000, guid: 817112a7a967ffc49824dbccf1a1d116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_089
+    second: {fileID: 2100000, guid: be6d38bdf7622d04b85d2254711dcc7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_090
+    second: {fileID: 2100000, guid: b6d8557d22126e847a54738aca641ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_091
+    second: {fileID: 2100000, guid: ebeaf7e5049ab124c8ec3340f9bf156b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_092
+    second: {fileID: 2100000, guid: fb89e1a49e630354985c8098507db859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_093
+    second: {fileID: 2100000, guid: b32aa9ec02f9a79419c5efcfe65d6fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_094
+    second: {fileID: 2100000, guid: 05e7981e6de113e4c91be6cc67d1396e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_095
+    second: {fileID: 2100000, guid: cb700d494053a8f41b7f717e9b57dfb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflecktor
+    second: {fileID: 2100000, guid: 1acac93222ec9f04fb78e1848f1088fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruecklicht
+    second: {fileID: 2100000, guid: d81a7bbf786ebb9489bb23d1fb122f09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stoff
+    second: {fileID: 2100000, guid: 3779e13d80b2dc7449832afb6d62d254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b8e4a88df3c2a824bbb09ec07fa692ff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

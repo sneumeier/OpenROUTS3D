@@ -1,0 +1,11 @@
+<Model>
+	<Title>Rruck</Truck>
+	<License>CC-BY</License>
+	<Source>https://poly.google.com/view/2F-L9yh4Qol</Source>
+	<Author>Enter Inventive Studio</Author>
+	<Modifications>	- Removed the trailer
+		- Split the model in parts
+		- Grouped the tires
+		- Set the origin of each tire to its center
+	</Modifications>
+</Model>

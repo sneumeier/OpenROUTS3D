@@ -1,0 +1,9 @@
+Title: Truck
+License: CC-BY
+Source: www.sweethome3d.com/models/scopia/truck.zip
+Author: Emmanuel PUYBARET / eTeks (info@eteks.com) and Scopia Visual Interfaces Systems, s.l. (http://www.scopia.es)
+Modifications:
+	- Resized the model
+    - Split the mesh into single objects
+    - Grouped the parts of each tire
+    ⁻ Set the origin of each tire to its center

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ScenarioTrigger>
+    <X>924.5</X>
+    <Y>1.64</Y>
+    <Z>793.9</Z>
+    <RX>0</RX>
+    <RY>147.4395</RY>
+    <RZ>0</RZ>
+  </ScenarioTrigger>
+  <ScenarioTrigger>
+    <X>1141.7</X>
+    <Y>1.64</Y>
+    <Z>1073.7</Z>
+    <RX>0</RX>
+    <RY>83.45383</RY>
+    <RZ>0</RZ>
+  </ScenarioTrigger>
+  <ScenarioTrigger>
+    <X>1427.06</X>
+    <Y>1.64</Y>
+    <Z>814.21</Z>
+    <RX>0</RX>
+    <RY>14.96658</RY>
+    <RZ>0</RZ>
+  </ScenarioTrigger>
+  <ScenarioSpawnPoint>
+    <X>1247.011</X>
+    <Y>0.9229205</Y>
+    <Z>812.35</Z>
+    <RX>359.8029</RX>
+    <RY>269.3195</RY>
+    <RZ>8.478422E-05</RZ>
+  </ScenarioSpawnPoint>
+</root>

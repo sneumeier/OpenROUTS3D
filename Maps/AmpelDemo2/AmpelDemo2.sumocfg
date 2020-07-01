@@ -1,0 +1,13 @@
+<configuration>
+
+    <input>
+        <net-file value="AmpelDemo2.net.xml"/>
+		<route-files value="AmpelDemo2.rou.xml"/>
+    </input>
+	
+    <time>
+        <begin value="0"/>
+        <end value="18000"/> <!-- (60min * 60s) / 0.02s = 18000 -->
+    </time>
+	
+</configuration>

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2302815019
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testpack.assetpack
+      Dependencies: {}
+    Info_1:
+      Name: timerpack.assetpack
+      Dependencies: {}
+    Info_2:
+      Name: delaypack.assetpack
+      Dependencies: {}
+    Info_3:
+      Name: camfreeze.assetpack
+      Dependencies: {}
+    Info_4:
+      Name: testmap.assetpack
+      Dependencies: {}
+    Info_5:
+      Name: replaypack.assetpack
+      Dependencies: {}
+    Info_6:
+      Name: texturepack.assetpack
+      Dependencies: {}
+    Info_7:
+      Name: carpack.assetpack
+      Dependencies: {}
+    Info_8:
+      Name: osmtest.assetpack
+      Dependencies: {}
+    Info_9:
+      Name: networkpack.assetpack
+      Dependencies: {}

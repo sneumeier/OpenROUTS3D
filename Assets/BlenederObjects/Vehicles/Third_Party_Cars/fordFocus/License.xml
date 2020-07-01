@@ -1,0 +1,9 @@
+<Model>
+	<Title>Ford Focus</Title>
+	<License>CC-BY</License>
+	<Source>www.sweethome3d.com/models/blendswap-cc-by/fordFocus.zip</Source>
+	<Author>Ruff. Simplified by Emmanuel Puybaret / eTeks</Author>
+	<Modifications>	- Ungrouped the wheels and set the origin to each wheel
+		- Resized the car
+	</Modifications>
+</Model>
