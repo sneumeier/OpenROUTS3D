@@ -97,7 +97,7 @@ If you identify Bugs or want some new cool Features, feel free to fix/implement 
 You may also open an issue so that other developers are able to fix/implement it.
 
 ### Credits
-See Credits.xml
+See [Credits.xml](Credits.xml)
 
 ### External Libraries
 - Triangle.Net (MIT-License): https://github.com/Geri-Borbas/Triangle.NET
